@@ -14,6 +14,20 @@ script_execute(calc_movement);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
+/// @DnDHash : 429570EC
+/// @DnDArgument : "script" "check_ground"
+/// @DnDSaveInfo : "script" "64cf197a-f9c4-4566-9eb6-cda97d882c15"
+script_execute(check_ground);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 0122A1D6
+/// @DnDArgument : "script" "check_jump"
+/// @DnDSaveInfo : "script" "0644cf45-7b3c-4a70-85c8-63e276bd6e83"
+script_execute(check_jump);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
 /// @DnDHash : 589FF8CA
 /// @DnDArgument : "script" "collision"
 /// @DnDSaveInfo : "script" "d6a11884-0cf3-49b9-80fb-b2a6b04f514c"

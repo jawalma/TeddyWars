@@ -71,6 +71,20 @@
             "varType": 0
         },
         {
+            "id": "51fc76f6-6605-43c4-bd46-034bf3fcf6ea",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "vsp",
+            "varType": 0
+        },
+        {
             "id": "34290d3c-caf7-445a-9eab-08dfccfdb276",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -97,6 +111,34 @@
             "value": "1",
             "varName": "facing",
             "varType": 0
+        },
+        {
+            "id": "c0a85f41-5276-4a03-9902-12f7fa6b7e9e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "jump_spd",
+            "varType": 0
+        },
+        {
+            "id": "5d6c5e86-1f08-4cf4-a4ee-68d66a5365c6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "on_ground",
+            "varType": 3
         }
     ],
     "solid": false,
