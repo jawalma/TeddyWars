@@ -108,20 +108,6 @@
             "varType": 0
         },
         {
-            "id": "839bb8fd-550c-481d-aa65-6966367dbe5a",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "on_ground",
-            "varType": 3
-        },
-        {
             "id": "ae821fc1-3921-43da-938f-f47216e05552",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -162,6 +148,20 @@
             "value": "s_player_air",
             "varName": "spr_air",
             "varType": 0
+        },
+        {
+            "id": "839bb8fd-550c-481d-aa65-6966367dbe5a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "on_ground",
+            "varType": 3
         }
     ],
     "solid": false,

@@ -60,13 +60,13 @@ if(on_ground == true)
 	/// @DnDParent : 7183DC7E
 	else
 	{
-		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 		/// @DnDVersion : 1
-		/// @DnDHash : 11DC2380
+		/// @DnDHash : 6D5A5874
 		/// @DnDParent : 731BA97F
-		/// @DnDArgument : "expr" "spr_idle"
-		/// @DnDArgument : "var" "spr_index"
-		spr_index = spr_idle;
+		/// @DnDArgument : "value" "spr_idle"
+		/// @DnDArgument : "instvar" "10"
+		sprite_index = spr_idle;
 	}
 }
 
