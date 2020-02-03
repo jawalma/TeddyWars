@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02734da6-e2cf-4cdc-bdcb-ff8787285f5d",
+            "Value": {
+                "id": "9419b8c2-81d7-4015-bb9d-667726f65106",
+                "resourcePath": "objects\\o_sword\\o_sword.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0644cf45-7b3c-4a70-85c8-63e276bd6e83",
             "Value": {
                 "id": "92650377-9116-439a-be00-84e1f884bd20",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "232d6f89-b403-469e-8f26-a44993d2e649",
+            "Value": {
+                "id": "917f5227-a2e7-46a4-bd09-cbe4a26b1be8",
+                "resourcePath": "timelines\\WeaponFollow\\WeaponFollow.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "26b08a3e-69ed-41f2-b60f-e7bfefca1622",
             "Value": {
                 "id": "0c8ef663-3584-49f3-938f-3eb1cf987e54",
@@ -167,11 +183,27 @@
             }
         },
         {
+            "Key": "4e5ed2fd-d870-4e51-9ed6-a41c7e8ac02b",
+            "Value": {
+                "id": "62248dbb-c690-4e5d-89a0-a315dd4d560e",
+                "resourcePath": "sprites\\s_swordpowerup\\s_swordpowerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5163e674-5a50-4566-bb94-81f26eb327ff",
             "Value": {
                 "id": "961e3d8c-86fc-4915-9ad8-8dd1024f007d",
                 "resourcePath": "views\/5163e674-5a50-4566-bb94-81f26eb327ff.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "56ad0e5f-b77a-40c1-b75e-73690f0eb985",
+            "Value": {
+                "id": "8346c8e2-771c-460f-ac08-435d5741db24",
+                "resourcePath": "sprites\\s_sword\\s_sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "387e2d72-b881-4f51-ad46-bf1121f28d05",
                 "resourcePath": "views\/d88b3eb2-978b-4e2d-b595-f65ed8d053aa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e364da51-7c1c-46b2-9fa7-a8e4d1ca8176",
+            "Value": {
+                "id": "cd3c4802-f84b-4799-a543-569cea15f7d6",
+                "resourcePath": "objects\\o_spowerup\\o_spowerup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
