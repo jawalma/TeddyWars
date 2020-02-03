@@ -43,6 +43,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "b25744cc-147d-4087-9bbd-e1d3aab951e9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -159,6 +169,76 @@
             "value": "0",
             "varName": "on_ground",
             "varType": 3
+        },
+        {
+            "id": "35dd34f6-cad4-4b15-a0c2-f828b12ce7c8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "6",
+            "varName": "hp_max",
+            "varType": 0
+        },
+        {
+            "id": "4302ef66-544d-4437-847c-35420e97e65a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "hp_max",
+            "varName": "hp",
+            "varType": 0
+        },
+        {
+            "id": "cc7f5c30-ddf6-4f40-b4e1-587839092c60",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "hsp_knockback",
+            "varType": 0
+        },
+        {
+            "id": "34b7e540-fb34-4bab-9f58-0976ade9d9d4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "vsp_knockback",
+            "varType": 0
+        },
+        {
+            "id": "e9b4b172-3a97-4e4d-b94f-2c8d7df18e57",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "room_speed*1",
+            "varName": "immune_time",
+            "varType": 0
         }
     ],
     "solid": false,

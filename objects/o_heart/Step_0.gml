@@ -1,0 +1,1 @@
+image_index = o_player.hp;

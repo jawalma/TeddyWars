@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "d548cf62-af5c-4ba2-98dc-4ec8f05fb66f",
+            "Value": {
+                "id": "3633f90b-84ef-4d5d-ae09-8eae894c2a4f",
+                "resourcePath": "objects\/o_heart\/o_heart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6a11884-0cf3-49b9-80fb-b2a6b04f514c",
             "Value": {
                 "id": "aed50251-6b51-4fe6-b63e-805cdbc246fb",
