@@ -72,6 +72,11 @@ if (l22E602C9_0)
 	duck = true;
 }
 
+/// @DnDAction : YoYo Games.Movement.Reverse
+/// @DnDVersion : 1
+/// @DnDHash : 33C82944
+direction = (direction + 180) % 360;
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Released
 /// @DnDVersion : 1
 /// @DnDHash : 0B06DEB8

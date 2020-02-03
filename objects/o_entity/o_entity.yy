@@ -103,7 +103,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "12",
+            "value": "11",
             "varName": "jump_spd",
             "varType": 0
         },
@@ -150,20 +150,6 @@
             "varType": 0
         },
         {
-            "id": "e3087390-9800-4b92-9887-296b03889c3f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "s_player_duck",
-            "varName": "spr_duck",
-            "varType": 0
-        },
-        {
             "id": "839bb8fd-550c-481d-aa65-6966367dbe5a",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -178,7 +164,7 @@
             "varType": 3
         },
         {
-            "id": "d9ad947c-a604-4f4b-b6ca-b1b6652f53e4",
+            "id": "47794d1c-b8c8-40b4-bc8d-9a1709b4a854",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -187,9 +173,65 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "duck",
-            "varType": 3
+            "value": "6",
+            "varName": "hp_max",
+            "varType": 0
+        },
+        {
+            "id": "c292dc27-fb77-4a41-a880-0576470fa9a4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "hp_max",
+            "varName": "hp",
+            "varType": 0
+        },
+        {
+            "id": "434996d0-c8e2-41b4-8635-862b89904ccc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "16",
+            "varName": "hsp_knockback",
+            "varType": 0
+        },
+        {
+            "id": "ae9f741a-9af8-47d9-b844-3d51d2a44059",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "7",
+            "varName": "vsp_knockback",
+            "varType": 0
+        },
+        {
+            "id": "dc964c42-08a8-47ae-8a36-f85ee0e87b26",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "room_speed*.5",
+            "varName": "immune_time",
+            "varType": 0
         }
     ],
     "solid": false,
