@@ -71,3 +71,20 @@ if (l22E602C9_0)
 	/// @DnDArgument : "var" "duck"
 	duck = true;
 }
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Released
+/// @DnDVersion : 1
+/// @DnDHash : 0B06DEB8
+/// @DnDArgument : "key" "vk_down"
+var l0B06DEB8_0;
+l0B06DEB8_0 = keyboard_check_released(vk_down);
+if (l0B06DEB8_0)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 420CCE39
+	/// @DnDParent : 0B06DEB8
+	/// @DnDArgument : "expr" "false"
+	/// @DnDArgument : "var" "duck"
+	duck = false;
+}
