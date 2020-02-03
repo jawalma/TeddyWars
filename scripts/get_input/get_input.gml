@@ -54,20 +54,3 @@ if (l0F4A7BB0_0)
 	/// @DnDArgument : "var" "jump"
 	jump = true;
 }
-
-/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
-/// @DnDVersion : 1
-/// @DnDHash : 3DEB5532
-/// @DnDArgument : "key" "vk_down"
-var l3DEB5532_0;
-l3DEB5532_0 = keyboard_check(vk_down);
-if (l3DEB5532_0)
-{
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 2063DE43
-	/// @DnDParent : 3DEB5532
-	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "var" "duck"
-	duck = true;
-}
