@@ -232,6 +232,34 @@
             "value": "room_speed*.5",
             "varName": "immune_time",
             "varType": 0
+        },
+        {
+            "id": "147eac2b-c3fb-4194-9b1d-50e27cd9589f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "duck",
+            "varType": 3
+        },
+        {
+            "id": "2655fbc3-a675-4999-8710-d377f44c8d37",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_duck",
+            "varName": "spr_duck",
+            "varType": 0
         }
     ],
     "solid": false,
