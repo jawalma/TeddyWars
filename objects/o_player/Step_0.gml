@@ -14,6 +14,13 @@ script_execute(calc_movement);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
+/// @DnDHash : 2818A1B6
+/// @DnDArgument : "script" "check_facing"
+/// @DnDSaveInfo : "script" "616ab3f0-6bf9-4ddf-8529-6083ffb8262b"
+script_execute(check_facing);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
 /// @DnDHash : 429570EC
 /// @DnDArgument : "script" "check_ground"
 /// @DnDSaveInfo : "script" "64cf197a-f9c4-4566-9eb6-cda97d882c15"
