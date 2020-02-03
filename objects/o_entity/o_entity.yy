@@ -150,6 +150,20 @@
             "varType": 0
         },
         {
+            "id": "e3087390-9800-4b92-9887-296b03889c3f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_duck",
+            "varName": "spr_duck",
+            "varType": 0
+        },
+        {
             "id": "839bb8fd-550c-481d-aa65-6966367dbe5a",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -161,6 +175,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "on_ground",
+            "varType": 3
+        },
+        {
+            "id": "d9ad947c-a604-4f4b-b6ca-b1b6652f53e4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "duck",
             "varType": 3
         }
     ],

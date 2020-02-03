@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "7489e53e-1504-4031-9916-a9eb9eeaa819",
+            "Value": {
+                "id": "c3013813-ef20-4b94-8995-60f7d8dc6308",
+                "resourcePath": "sprites\\s_player_duck\\s_player_duck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "782fafa2-57d6-4873-bc11-0b95d3abe56e",
             "Value": {
                 "id": "7f579be9-72ed-419c-a3d5-bc237a26c8a6",
