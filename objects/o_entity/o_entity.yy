@@ -260,6 +260,48 @@
             "value": "s_player_duck",
             "varName": "spr_duck",
             "varType": 0
+        },
+        {
+            "id": "ae87aa7f-ed8f-445f-a4e9-49b914fe769f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "variable_name",
+            "varType": 0
+        },
+        {
+            "id": "a84ef526-f45c-4916-a5e9-d768525278e2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "variable_name1",
+            "varType": 0
+        },
+        {
+            "id": "fa686a37-bf6b-4f2c-9baa-1f7d839ebaa9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "ps.IDLE",
+            "varName": "state",
+            "varType": 1
         }
     ],
     "solid": false,
