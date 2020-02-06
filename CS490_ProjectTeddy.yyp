@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1598f68c-ac3b-4eb8-9694-bbb930289299",
+            "Value": {
+                "id": "0898f13c-59cc-498d-a37f-99efc4a9a13d",
+                "resourcePath": "objects\/o_sewingkit\/o_sewingkit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "15d25510-d68f-4809-ade8-9290c768bec5",
             "Value": {
                 "id": "0e1ddc5d-2e07-4f5e-a93e-c30b8da56437",
@@ -348,6 +356,14 @@
                 "id": "8513a12f-028c-43d1-a7a3-2f6189b1cb44",
                 "resourcePath": "views\/96969afe-70a8-4695-94ee-dcf61f6f137d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f32ceb9-46da-4749-ae49-c1df5523f702",
+            "Value": {
+                "id": "b3974b4a-98fd-409d-a9a5-30a8aa47f652",
+                "resourcePath": "sprites\/s_sewingkit\/s_sewingkit.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -24,7 +24,11 @@
         "8d8a2075-eb1f-40aa-bb68-efcd3655c3eb",
         "faeb22eb-56a2-428b-b91e-c425ef596591",
         "b0797d5f-11e2-48ec-b0b1-9a78f703c2f1",
-        "2ef5a880-99a9-4109-883d-1e46f120144e"
+        "2ef5a880-99a9-4109-883d-1e46f120144e",
+        "79e7ef8d-826a-4be5-b27b-34c963e03b90",
+        "3f2320c0-b5ba-46d0-974d-81d3be723c4a",
+        "9610d679-b935-489e-920c-e751501c41f3",
+        "6d562007-e6fe-4a9b-a892-edcbc9c9e3ff"
     ],
     "IsDnD": true,
     "layers": [
@@ -135,9 +139,38 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "SewingKits",
+            "id": "e1e1ad5d-ae30-4ac8-9299-7ce24b3dcee0",
+            "depth": 400,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_2382B671","id": "79e7ef8d-826a-4be5-b27b-34c963e03b90","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2382B671","objId": "1598f68c-ac3b-4eb8-9694-bbb930289299","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1120,"y": 416},
+{"name": "inst_721F876D","id": "3f2320c0-b5ba-46d0-974d-81d3be723c4a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_721F876D","objId": "1598f68c-ac3b-4eb8-9694-bbb930289299","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 96,"y": 416},
+{"name": "inst_1D17AE92","id": "9610d679-b935-489e-920c-e751501c41f3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1D17AE92","objId": "1598f68c-ac3b-4eb8-9694-bbb930289299","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 864,"y": 416},
+{"name": "inst_9C6FAFF","id": "6d562007-e6fe-4a9b-a892-edcbc9c9e3ff","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_9C6FAFF","objId": "1598f68c-ac3b-4eb8-9694-bbb930289299","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 992,"y": 416}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Buttons",
             "id": "17e9fa94-dcca-4859-9bc5-868575f32a07",
-            "depth": 400,
+            "depth": 500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -172,7 +205,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Collision",
             "id": "cd9c04f4-f863-494c-86ef-129180016a6f",
-            "depth": 500,
+            "depth": 600,
             "grid_x": 16,
             "grid_y": 16,
             "hierarchyFrozen": false,
@@ -203,7 +236,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 600,
+            "depth": 700,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
