@@ -201,7 +201,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "16",
+            "value": "13",
             "varName": "hsp_knockback",
             "varType": 0
         },
@@ -215,7 +215,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "7",
+            "value": "5",
             "varName": "vsp_knockback",
             "varType": 0
         },

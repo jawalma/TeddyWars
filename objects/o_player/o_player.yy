@@ -99,6 +99,20 @@
             "value": "12",
             "varName": "jump_spd",
             "varType": 0
+        },
+        {
+            "id": "be5ecec2-33ba-4a9f-b773-95d8469992bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_dead",
+            "varName": "spr_dead",
+            "varType": 0
         }
     ],
     "solid": false,

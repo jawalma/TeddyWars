@@ -34,7 +34,7 @@
             "Key": "02734da6-e2cf-4cdc-bdcb-ff8787285f5d",
             "Value": {
                 "id": "9419b8c2-81d7-4015-bb9d-667726f65106",
-                "resourcePath": "objects\\o_sword\\o_sword.yy",
+                "resourcePath": "objects\/o_sword\/o_sword.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -42,7 +42,7 @@
             "Key": "03d807fc-bbc1-48b8-8636-37e4bf9c724f",
             "Value": {
                 "id": "98c14d2f-7ac3-4782-ae85-5d5ee49fe7ce",
-                "resourcePath": "scripts\\check_state\\check_state.yy",
+                "resourcePath": "scripts\/check_state\/check_state.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "232d6f89-b403-469e-8f26-a44993d2e649",
             "Value": {
                 "id": "917f5227-a2e7-46a4-bd09-cbe4a26b1be8",
-                "resourcePath": "timelines\\WeaponFollow\\WeaponFollow.yy",
+                "resourcePath": "timelines\/WeaponFollow\/WeaponFollow.yy",
                 "resourceType": "GMTimeline"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "4e5ed2fd-d870-4e51-9ed6-a41c7e8ac02b",
             "Value": {
                 "id": "62248dbb-c690-4e5d-89a0-a315dd4d560e",
-                "resourcePath": "sprites\\s_swordpowerup\\s_swordpowerup.yy",
+                "resourcePath": "sprites\/s_swordpowerup\/s_swordpowerup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "56ad0e5f-b77a-40c1-b75e-73690f0eb985",
             "Value": {
                 "id": "8346c8e2-771c-460f-ac08-435d5741db24",
-                "resourcePath": "sprites\\s_sword\\s_sword.yy",
+                "resourcePath": "sprites\/s_sword\/s_sword.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -247,10 +247,18 @@
             }
         },
         {
+            "Key": "6699da63-b4aa-4914-b80b-0af2f0a9b8fc",
+            "Value": {
+                "id": "66d2c637-133b-46a8-9560-0ba52b1c1b3f",
+                "resourcePath": "scripts\/check_hp\/check_hp.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7489e53e-1504-4031-9916-a9eb9eeaa819",
             "Value": {
                 "id": "c3013813-ef20-4b94-8995-60f7d8dc6308",
-                "resourcePath": "sprites\\s_player_duck\\s_player_duck.yy",
+                "resourcePath": "sprites\/s_player_duck\/s_player_duck.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -276,6 +284,14 @@
                 "id": "bf82323a-f309-4002-8cff-a14bc49ee049",
                 "resourcePath": "options\/windowsuap\/options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "8628cddf-20eb-43d0-a7f0-5d5f8d6c77a9",
+            "Value": {
+                "id": "e18c8e81-4190-4f9f-91dd-2640325bc3ea",
+                "resourcePath": "sprites\/s_player_dead\/s_player_dead.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "c383e471-aa83-4ce7-9d78-339a38ad422e",
+            "Value": {
+                "id": "dc0c386d-2d15-43e2-b8c5-ec7f4eaeaf76",
+                "resourcePath": "scripts\/check_air_index\/check_air_index.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c4e44028-8222-4ae0-8c2b-7cc7122dea77",
             "Value": {
                 "id": "e8b72457-c95f-4334-8fb2-41cc650e6d9e",
@@ -418,7 +442,7 @@
             "Key": "e364da51-7c1c-46b2-9fa7-a8e4d1ca8176",
             "Value": {
                 "id": "cd3c4802-f84b-4799-a543-569cea15f7d6",
-                "resourcePath": "objects\\o_spowerup\\o_spowerup.yy",
+                "resourcePath": "objects\/o_spowerup\/o_spowerup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -455,7 +479,9 @@
         "0644cf45-7b3c-4a70-85c8-63e276bd6e83",
         "64cf197a-f9c4-4566-9eb6-cda97d882c15",
         "616ab3f0-6bf9-4ddf-8529-6083ffb8262b",
-        "03d807fc-bbc1-48b8-8636-37e4bf9c724f"
+        "03d807fc-bbc1-48b8-8636-37e4bf9c724f",
+        "c383e471-aa83-4ce7-9d78-339a38ad422e",
+        "6699da63-b4aa-4914-b80b-0af2f0a9b8fc"
     ],
     "tutorial": ""
 }
