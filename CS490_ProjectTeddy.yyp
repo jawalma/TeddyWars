@@ -501,6 +501,14 @@
                 "resourcePath": "views\/f51909ee-58b2-4e13-be34-e12245bb73c1.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fe20959b-ea54-4c2e-9609-b736e4c152aa",
+            "Value": {
+                "id": "29bfecf5-2882-4830-8219-96970cd39f79",
+                "resourcePath": "objects\\o_gameover\\o_gameover.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
