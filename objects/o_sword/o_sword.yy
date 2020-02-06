@@ -52,7 +52,20 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "c8b7866b-adef-4022-83dd-24f2f43a1439",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "attackSwitch",
+            "varType": 1
+        }
     ],
     "solid": false,
     "spriteId": "56ad0e5f-b77a-40c1-b75e-73690f0eb985",
