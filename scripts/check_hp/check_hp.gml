@@ -12,4 +12,14 @@ if(hp <= 0)
 	/// @DnDArgument : "expr" "ps.DEAD"
 	/// @DnDArgument : "var" "state"
 	state = ps.DEAD;
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 75E02E41
+	/// @DnDParent : 008B5FC7
+	/// @DnDArgument : "xpos" "360"
+	/// @DnDArgument : "ypos" "360"
+	/// @DnDArgument : "objectid" "o_gameover"
+	/// @DnDSaveInfo : "objectid" "fe20959b-ea54-4c2e-9609-b736e4c152aa"
+	instance_create_layer(360, 360, "Instances", o_gameover);
 }
