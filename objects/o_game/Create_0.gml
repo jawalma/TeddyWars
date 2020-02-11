@@ -14,9 +14,10 @@ enum ps {
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 428542ED
-/// @DnDArgument : "xpos" "-1000"
-/// @DnDArgument : "ypos" "-1000"
+/// @DnDHash : 5D603640
+/// @DnDArgument : "xpos" "2560"
+/// @DnDArgument : "ypos" "1440"
 /// @DnDArgument : "objectid" "o_heart"
+/// @DnDArgument : "layer" ""Hearts""
 /// @DnDSaveInfo : "objectid" "d548cf62-af5c-4ba2-98dc-4ec8f05fb66f"
-instance_create_layer(-1000, -1000, "Instances", o_heart);
+instance_create_layer(2560, 1440, "Hearts", o_heart);
