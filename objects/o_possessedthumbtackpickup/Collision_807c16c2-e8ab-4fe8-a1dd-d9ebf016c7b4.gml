@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 3B248E00
+/// @DnDHash : 237C0C1A
 instance_destroy();
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 4D4DE136
+/// @DnDHash : 745A5F0B
 /// @DnDArgument : "xpos_relative" "1"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "o_possessedthumbtack"
