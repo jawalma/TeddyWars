@@ -1,3 +1,27 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7F800451
+/// @DnDArgument : "var" "global.paused"
+/// @DnDArgument : "value" "true"
+if(global.paused == true)
+{
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 1567CFDC
+	/// @DnDParent : 7F800451
+	/// @DnDArgument : "code" "draw_sprite_ext(global.screenShot,0,0,0,1,1,0,c_white,1);"
+	draw_sprite_ext(global.screenShot,0,0,0,1,1,0,c_white,1);
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value
+	/// @DnDVersion : 1
+	/// @DnDHash : 0EA725D3
+	/// @DnDParent : 7F800451
+	/// @DnDArgument : "x" "view_wview * 0.5"
+	/// @DnDArgument : "y" "view_hview * 0.5"
+	/// @DnDArgument : "caption" ""PAUSED (Press P to Resume)""
+	draw_text(view_wview * 0.5, view_hview * 0.5, string("PAUSED (Press P to Resume)") + "");
+}
+
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 64751F25
