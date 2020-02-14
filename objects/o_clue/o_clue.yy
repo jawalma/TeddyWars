@@ -5,13 +5,43 @@
     "name": "o_clue",
     "eventList": [
         {
-            "id": "d1f8077d-0110-49a0-9455-bc242e81570f",
+            "id": "09ef3ea1-d017-4f91-a138-fde8c5d7934d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "917a2add-d814-40f9-be0d-2d5d9b752681"
+        },
+        {
+            "id": "93ba7233-493a-42a8-aed6-da5a65cc5ce9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "917a2add-d814-40f9-be0d-2d5d9b752681"
+        },
+        {
+            "id": "e7475993-4616-4abc-ab9c-9017aadaf849",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
+            "m_owner": "917a2add-d814-40f9-be0d-2d5d9b752681"
+        },
+        {
+            "id": "8f3d746e-4a50-43dd-bc97-8c8ef7292317",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "917a2add-d814-40f9-be0d-2d5d9b752681"
         }
     ],
@@ -31,7 +61,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "aca8d077-2415-49d7-84ac-b9940180a1a6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "room_speed*.1",
+            "varName": "wait_time",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "7ccd540f-1523-4420-a8a6-c9463b2294e4",
     "visible": true

@@ -16,7 +16,7 @@ if (l46726704_0)
 
 	/// @DnDAction : YoYo Games.Common.Execute_Code
 	/// @DnDVersion : 1
-	/// @DnDHash : 64E36A81
+	/// @DnDHash : 14426FBB
 	/// @DnDParent : 46726704
 	/// @DnDArgument : "code" "if(!sprite_exists(global.screenShot)){$(13_10)        global.screenShot = sprite_create_from_surface(application_surface,0,0,view_wport,view_hport,0,0,0,0);$(13_10)		} "
 	if(!sprite_exists(global.screenShot)){
@@ -33,7 +33,7 @@ if(global.paused == true)
 {
 	/// @DnDAction : YoYo Games.Common.Execute_Code
 	/// @DnDVersion : 1
-	/// @DnDHash : 30A13ED2
+	/// @DnDHash : 10A6E66B
 	/// @DnDParent : 49BAD3EC
 	/// @DnDArgument : "code" "instance_deactivate_all(1);"
 	instance_deactivate_all(1);
