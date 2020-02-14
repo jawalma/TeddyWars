@@ -2,13 +2,13 @@
     "id": "917a2add-d814-40f9-be0d-2d5d9b752681",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_clue",
+    "name": "o_clue_test",
     "eventList": [
         {
             "id": "09ef3ea1-d017-4f91-a138-fde8c5d7934d",
             "modelName": "GMEvent",
             "mvc": "1.0",
-            "IsDnD": true,
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 64,
             "eventtype": 8,
