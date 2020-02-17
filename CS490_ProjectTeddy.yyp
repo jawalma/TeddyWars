@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "10018e89-a6db-46a0-8b76-47fb6b69cd3f",
+            "Value": {
+                "id": "7ec5f5e9-af8b-4388-afb2-2f3ad4dd532a",
+                "resourcePath": "views\\10018e89-a6db-46a0-8b76-47fb6b69cd3f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "10c320e1-d6c7-4cd4-8394-28a6a61bbe24",
             "Value": {
                 "id": "69f52074-434f-4079-b4db-381a773c9763",
@@ -519,6 +527,14 @@
             }
         },
         {
+            "Key": "762ee9cb-945d-4da9-b681-44e78c4b7301",
+            "Value": {
+                "id": "e9c82a06-5358-41c9-8b37-8ba85792b7c4",
+                "resourcePath": "sprites\\sprite24\\sprite24.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "782fafa2-57d6-4873-bc11-0b95d3abe56e",
             "Value": {
                 "id": "7f579be9-72ed-419c-a3d5-bc237a26c8a6",
@@ -895,6 +911,14 @@
             }
         },
         {
+            "Key": "c6411f70-e4e5-47ef-a9a1-c85aec716654",
+            "Value": {
+                "id": "7a4271e5-9839-43a7-9c18-42d4cd6f94e0",
+                "resourcePath": "objects\\o_playerhand\\o_playerhand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c9bd23b3-63ef-4312-8223-7d50823c8a97",
             "Value": {
                 "id": "6d5cb34e-e03d-478f-ab53-6ae12e34efd7",
@@ -1095,6 +1119,14 @@
             }
         },
         {
+            "Key": "f87f9139-e43e-4ac4-9523-dbcd4fd39161",
+            "Value": {
+                "id": "4adf4ebe-c450-4cd5-9f7f-8de33a3b44d0",
+                "resourcePath": "sprites\\s_playerhand_walk\\s_playerhand_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f919f068-f1f9-4a69-8943-d5fe4987278e",
             "Value": {
                 "id": "64a8c00d-6eda-4cb4-8297-f92aeb23bbfe",
@@ -1124,6 +1156,14 @@
                 "id": "29bfecf5-2882-4830-8219-96970cd39f79",
                 "resourcePath": "objects\/o_gameover\/o_gameover.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe64895d-df55-4eb8-b1f0-8b7ab3c62855",
+            "Value": {
+                "id": "6b25afe8-1dd7-4ff8-9a40-ef0856a66a71",
+                "resourcePath": "sprites\\s_playerhand_idle\\s_playerhand_idle.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
