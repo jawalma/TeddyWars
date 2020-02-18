@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "183939ae-208e-4491-8b30-3654b5e4076c",
+            "Value": {
+                "id": "63eba6da-f2d2-464a-8223-a068028c5308",
+                "resourcePath": "sprites\\s_player_walk_fork\\s_player_walk_fork.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18722db7-b7c1-4aa3-bcc5-dd845d74fc90",
             "Value": {
                 "id": "b2c60421-23c0-40b4-95d8-7aee5b5aa806",
@@ -747,6 +755,14 @@
             "Value": {
                 "id": "996975b2-fd79-4643-a16b-42433d91a430",
                 "resourcePath": "views\/7172d071-b539-4616-8b91-058f13b64897.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "739e368a-5433-41f6-9179-133d80544068",
+            "Value": {
+                "id": "d7c14043-edd9-4686-b9dc-9f6010007bd8",
+                "resourcePath": "views\\739e368a-5433-41f6-9179-133d80544068.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1452,14 +1468,6 @@
                 "id": "b43a7c52-d65f-43b3-818e-7a39a8f31f87",
                 "resourcePath": "scripts\/attackleftReset\/attackleftReset.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "df13c22c-6f4a-4134-937c-03e86e116166",
-            "Value": {
-                "id": "f7e7d652-ec85-4a8a-a2e2-30404d14393c",
-                "resourcePath": "views\/df13c22c-6f4a-4134-937c-03e86e116166.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
