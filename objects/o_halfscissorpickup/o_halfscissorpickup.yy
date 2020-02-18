@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_halfscissorpickup",
     "eventList": [
-        
+        {
+            "id": "f0620a72-ee46-4d79-8439-8a8b453b4904",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "81c40454-7e6b-483b-9465-4027c7cdfbf0"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
