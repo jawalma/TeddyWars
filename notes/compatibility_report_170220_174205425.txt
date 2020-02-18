@@ -1,0 +1,152 @@
+Converting GML script: ${project_dir}\scripts\spriter_load\spriter_load.gml
+Converted description /// @description spriter_load(file, instance_name, enable_bones)/// @param file
+/// @param  instance_name
+/// @param  enable_bones
+
+Converting GML script: ${project_dir}\scripts\spriter_update\spriter_update.gml
+Converted description /// @description spriter_update(object)/// @param object
+
+Converting GML script: ${project_dir}\scripts\spriter_render\spriter_render.gml
+Converted description /// @description spriter_render(object, debug_draw)/// @param object
+/// @param  debug_draw
+
+Converting GML script: ${project_dir}\scripts\spriter_set_current_animation\spriter_set_current_animation.gml
+Converted description /// @description spriter_set_current_animation(object, animation_name, blend_time)/// @param object
+/// @param  animation_name
+/// @param  blend_time
+
+Converting GML script: ${project_dir}\scripts\spriter_apply_character_map\spriter_apply_character_map.gml
+Converted description /// @description spriter_apply_character_map(object, charmap_name)/// @param object
+/// @param  charmap_name
+
+Converting GML script: ${project_dir}\scripts\spriter_remove_character_map\spriter_remove_character_map.gml
+Converted description /// @description spriter_remove_character_map(object, charmap_name)/// @param object
+/// @param  charmap_name
+
+Converting GML script: ${project_dir}\scripts\spriter_remove_all_character_map\spriter_remove_all_character_map.gml
+Converted description /// @description spriter_remove_all_character_map(object)/// @param object
+
+Converting GML script: ${project_dir}\scripts\spriter_set_playback_speed_ratio\spriter_set_playback_speed_ratio.gml
+Converted description /// @description spriter_set_playback_speed_ratio(object, playback_speed_ratio)/// @param object
+/// @param  playback_speed_ratio
+
+Converting GML script: ${project_dir}\scripts\spriter_start_resume_playback\spriter_start_resume_playback.gml
+Converted description /// @description spriter_start_resume_playback(object)/// @param object
+
+Converting GML script: ${project_dir}\scripts\spriter_pause_playback\spriter_pause_playback.gml
+Converted description /// @description spriter_pause_playback(object)/// @param object
+
+Converting GML script: ${project_dir}\scripts\spriter_set_time_ratio\spriter_set_time_ratio.gml
+Converted description /// @description spriter_set_time_ratio(object, time_ratio)/// @param object
+/// @param  time_ratio
+
+Converting GML script: ${project_dir}\scripts\spriter_animation_just_finished\spriter_animation_just_finished.gml
+Converted description /// @description spriter_animation_just_finished(object, looped)/// @param object
+/// @param  looped
+
+Converting GML script: ${project_dir}\scripts\spriter_check_errors\spriter_check_errors.gml
+Converted description /// @description spriter_check_errors()
+
+Converting GML script: ${project_dir}\scripts\spriter_is_trigger\spriter_is_trigger.gml
+Converted description /// @description spriter_is_trigger(object, trigger_name)/// @param object
+/// @param  trigger_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_point_y1\spriter_get_point_y1.gml
+Converted description /// @description spriter_get_point_y1(object, object_index)/// @param object
+/// @param  object_index
+
+Converting GML script: ${project_dir}\scripts\spriter_get_point_y2\spriter_get_point_y2.gml
+Converted description /// @description spriter_get_point_y2(object, point_index)/// @param object
+/// @param  point_index
+
+Converting GML script: ${project_dir}\scripts\spriter_get_point_x1\spriter_get_point_x1.gml
+Converted description /// @description spriter_get_point_x1(object, point_index)/// @param object
+/// @param  point_index
+
+Converting GML script: ${project_dir}\scripts\spriter_get_point_x2\spriter_get_point_x2.gml
+Converted description /// @description spriter_get_point_x2(object, point_index)/// @param object
+/// @param  point_index
+
+Converting GML script: ${project_dir}\scripts\spriter_get_point_direction\spriter_get_point_direction.gml
+Converted description /// @description spriter_get_point_direction(object, point_name)/// @param object
+/// @param  point_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_box_point_x\spriter_get_box_point_x.gml
+Converted description /// @description spriter_get_box_point_x(object, object_index, point_name)/// @param object
+/// @param  object_index
+/// @param  point_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_box_point_y\spriter_get_box_point_y.gml
+Converted description /// @description spriter_get_box_point_x(object, box_index, point_name)/// @param object
+/// @param  box_index
+/// @param  point_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_box_collision_rectangle\spriter_get_box_collision_rectangle.gml
+Converted description /// @description spriter_get_box_collision_rectangle(object, object_check, box_name)/// @param object
+/// @param  object_check
+/// @param  box_name
+
+Converting GML script: ${project_dir}\scripts\spriter_destroy_instance\spriter_destroy_instance.gml
+Converted description /// @description spriter_destroy_instance(object)/// @param object
+
+Converting GML script: ${project_dir}\scripts\spriter_find_object\spriter_find_object.gml
+Converted description /// @description spriter_find_object(object, name)/// @param object
+/// @param  name
+
+Converting GML script: ${project_dir}\scripts\spriter_set_IK_mode\spriter_set_IK_mode.gml
+Converted description /// @description spriter_set_IK_mode(object, instance_object_name, IK_mode, IK_treshold)/// @param object
+/// @param  instance_object_name
+/// @param  IK_mode
+/// @param  IK_treshold
+
+Converting GML script: ${project_dir}\scripts\spriter_is_IK_mode\spriter_is_IK_mode.gml
+Converted description /// @description spriter_is_IK_mode(object, instance_object_name)/// @param object
+/// @param  instance_object_name
+
+Converting GML script: ${project_dir}\scripts\spriter_is_manual_control\spriter_is_manual_control.gml
+Converted description /// @description spriter_is_manual_control(object, instance_object_name)/// @param object
+/// @param  instance_object_name
+
+Converting GML script: ${project_dir}\scripts\spriter_set_manual_control\spriter_set_manual_control.gml
+Converted description /// @description spriter_set_manual_control(object, instance_object_name, manual_control)/// @param object
+/// @param  instance_object_name
+/// @param  manual_control
+
+Converting GML script: ${project_dir}\scripts\spriter_set_IK_position\spriter_set_IK_position.gml
+Converted description /// @description spriter_set_IK_position(object, instance_object_name, x, y)/// @param object
+/// @param  instance_object_name
+/// @param  x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\spriter_set_manual_angle\spriter_set_manual_angle.gml
+Converted description /// @description spriter_set_manual_angle(object, instance_object_name, x, y)/// @param object
+/// @param  instance_object_name
+/// @param  x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\spriter_is_tag_active\spriter_is_tag_active.gml
+Converted description /// @description spriter_is_tag_active(object, object_name, tag_name)/// @param object
+/// @param  object_name
+/// @param  tag_name
+
+Converting GML script: ${project_dir}\scripts\spriter_is_variable_exist\spriter_is_variable_exist.gml
+Converted description /// @description spriter_is_variable_exist(object, object_name, variable_name)/// @param object
+/// @param  object_name
+/// @param  variable_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_variable_string_value\spriter_get_variable_string_value.gml
+Converted description /// @description spriter_get_variable_string_value(object, object_name, variable_name)/// @param object
+/// @param  object_name
+/// @param  variable_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_variable_real_value\spriter_get_variable_real_value.gml
+Converted description /// @description spriter_get_variable_real_value(object, object_name, variable_name)/// @param object
+/// @param  object_name
+/// @param  variable_name
+
+Converting GML script: ${project_dir}\scripts\spriter_get_variable_int_value\spriter_get_variable_int_value.gml
+Converted description /// @description spriter_get_variable_int_value(object, object_name, variable_name)/// @param object
+/// @param  object_name
+/// @param  variable_name
+
+Added compatibility script 'draw/draw_set_alpha_test.gml'

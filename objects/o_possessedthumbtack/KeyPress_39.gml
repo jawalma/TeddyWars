@@ -1,5 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 27564FC4
+/// @DnDHash : 30750A2C
+/// @DnDArgument : "expr" "40"
 /// @DnDArgument : "var" "xoffset"
-xoffset = 0;
+xoffset = 40;
