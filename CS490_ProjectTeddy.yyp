@@ -1567,6 +1567,14 @@
             }
         },
         {
+            "Key": "eb458763-5f52-488d-adfb-c4b67199953d",
+            "Value": {
+                "id": "e7c17cdd-afde-40c9-84c0-dd0f9843bc6f",
+                "resourcePath": "sprites\\s_enemy_rock_dead\\s_enemy_rock_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec5c1322-822c-4601-abb4-4250a618266f",
             "Value": {
                 "id": "4114c036-974e-4f3a-8856-477dce49589a",
