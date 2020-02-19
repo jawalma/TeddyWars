@@ -63,6 +63,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "fc0ae466-330b-439e-ab0a-a63ece0b2e49",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "36d799ca-f29a-4f93-a42f-e60548847077",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
     "maskSpriteId": "baeec946-970e-40b0-8f4f-66975e224689",
@@ -137,6 +147,48 @@
             "resourceFilter": 1023,
             "value": "12",
             "varName": "jump_spd",
+            "varType": 0
+        },
+        {
+            "id": "be5ecec2-33ba-4a9f-b773-95d8469992bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_dead",
+            "varName": "spr_dead",
+            "varType": 0
+        },
+        {
+            "id": "2735e7eb-56d5-45b6-b881-29ba476de3f1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "spr_state",
+            "varType": 0
+        },
+        {
+            "id": "e6d16ba7-af0f-45a9-ab26-7e602d22e88f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_walk_fork",
+            "varName": "spr_forkwalk",
             "varType": 0
         }
     ],
