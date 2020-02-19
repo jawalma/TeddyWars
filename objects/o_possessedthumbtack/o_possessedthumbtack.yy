@@ -83,6 +83,16 @@
             "enumb": 37,
             "eventtype": 9,
             "m_owner": "02734da6-e2cf-4cdc-bdcb-ff8787285f5d"
+        },
+        {
+            "id": "3c1fdbdf-077e-49bc-a2ae-68e29ae37466",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 8,
+            "eventtype": 7,
+            "m_owner": "02734da6-e2cf-4cdc-bdcb-ff8787285f5d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -157,6 +167,20 @@
             "value": "0",
             "varName": "sprite",
             "varType": 6
+        },
+        {
+            "id": "ea13ee94-537d-4684-b09f-c6b14c71cbbc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "ws.UNUSED",
+            "varName": "weaponstate",
+            "varType": 0
         }
     ],
     "solid": false,
