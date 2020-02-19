@@ -63,7 +63,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "47794d1c-b8c8-40b4-bc8d-9a1709b4a854",
-            "value": "1"
+            "value": "3"
         },
         {
             "id": "272f182a-5acb-41fd-b88c-378f36a0f70e",
@@ -79,7 +79,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "11002fa4-1ca1-4b49-91a6-5bf5aeaa3f1b",
-            "value": "s_player_walk"
+            "value": "s_enemy_rock"
         },
         {
             "id": "050ce247-baae-4406-bcba-4d7aee4681af",
