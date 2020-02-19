@@ -61,7 +61,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "ae821fc1-3921-43da-938f-f47216e05552",
-            "value": "s_enemy_idle"
+            "value": "s_player_idle"
         },
         {
             "id": "6e4e4701-0c8a-419c-bc7b-36d9fa4c5cc0",
@@ -69,7 +69,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "11002fa4-1ca1-4b49-91a6-5bf5aeaa3f1b",
-            "value": "s_enemy_walk"
+            "value": "s_player_walk"
         },
         {
             "id": "050ce247-baae-4406-bcba-4d7aee4681af",
@@ -77,7 +77,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "e79b6bbb-97cc-4729-8b49-3ba7f74e4b5b",
-            "value": "s_enemy_air"
+            "value": "s_player_air"
         },
         {
             "id": "af303332-f9b4-4968-8de0-3fe7f056c344",
@@ -85,7 +85,7 @@
             "mvc": "1.0",
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "2655fbc3-a675-4999-8710-d377f44c8d37",
-            "value": "s_enemy_duck"
+            "value": "s_player_duck"
         },
         {
             "id": "122e4f32-2e72-470e-b5dc-aa696d991ab4",
