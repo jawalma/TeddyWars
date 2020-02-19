@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "87a8009f-5725-41b5-bc3d-685737c2717c",
+            "Value": {
+                "id": "fb04f4c5-e6cf-4570-8035-02639cfa89b1",
+                "resourcePath": "scripts\\anim_enemy\\anim_enemy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8840e3eb-fbcf-4a9a-8d89-97c9162afebb",
             "Value": {
                 "id": "dccb053f-a09f-4917-ab02-95199f67d983",
@@ -1583,6 +1591,14 @@
             }
         },
         {
+            "Key": "eb458763-5f52-488d-adfb-c4b67199953d",
+            "Value": {
+                "id": "e7c17cdd-afde-40c9-84c0-dd0f9843bc6f",
+                "resourcePath": "sprites\\s_enemy_rock_dead\\s_enemy_rock_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec5c1322-822c-4601-abb4-4250a618266f",
             "Value": {
                 "id": "4114c036-974e-4f3a-8856-477dce49589a",
@@ -1668,6 +1684,7 @@
         "30a14562-3b80-4e5c-ba42-fd7b077d02e4",
         "d6a11884-0cf3-49b9-80fb-b2a6b04f514c",
         "35829d15-bab3-4b67-a0b2-d45802e6472b",
+        "87a8009f-5725-41b5-bc3d-685737c2717c",
         "0644cf45-7b3c-4a70-85c8-63e276bd6e83",
         "64cf197a-f9c4-4566-9eb6-cda97d882c15",
         "616ab3f0-6bf9-4ddf-8529-6083ffb8262b",

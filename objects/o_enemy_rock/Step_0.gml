@@ -33,3 +33,10 @@ script_execute(calc_movement);
 /// @DnDArgument : "script" "collision"
 /// @DnDSaveInfo : "script" "d6a11884-0cf3-49b9-80fb-b2a6b04f514c"
 script_execute(collision);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 7018041A
+/// @DnDArgument : "script" "anim_enemy"
+/// @DnDSaveInfo : "script" "87a8009f-5725-41b5-bc3d-685737c2717c"
+script_execute(anim_enemy);
