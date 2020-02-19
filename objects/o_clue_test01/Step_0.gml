@@ -37,12 +37,10 @@ if ((l11FEE041_0 > 0))
 		/// @DnDVersion : 1
 		/// @DnDHash : 161B03CE
 		/// @DnDParent : 6EDEAA78
-		/// @DnDArgument : "code" "if(!sprite_exists(global.screenShot)){$(13_10)        global.screenShot = sprite_create_from_surface(application_surface,0,0,view_wport,view_hport,0,0,0,0);$(13_10)		} $(13_10)		$(13_10)ds_list_add(inv, item_name);"
+		/// @DnDArgument : "code" "if(!sprite_exists(global.screenShot)){$(13_10)        global.screenShot = sprite_create_from_surface(application_surface,0,0,view_wport,view_hport,0,0,0,0);$(13_10)		} "
 		if(!sprite_exists(global.screenShot)){
 		        global.screenShot = sprite_create_from_surface(application_surface,0,0,view_wport,view_hport,0,0,0,0);
-				} 
-				
-		ds_list_add(inv, item_name);
+				}
 	
 		/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 		/// @DnDVersion : 1
