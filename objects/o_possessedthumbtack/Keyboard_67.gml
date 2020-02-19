@@ -1,9 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 44C5F854
-/// @DnDArgument : "value" "ws.USED"
+/// @DnDHash : 14324953
+/// @DnDArgument : "expr" "ws.USED"
 /// @DnDArgument : "var" "collisionstate"
-global.collisionstate = ws.USED;
+collisionstate = ws.USED;
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1

@@ -175,4 +175,28 @@ switch(l430809EE_0)
 		/// @DnDArgument : "instvar" "10"
 		sprite_index = spr_dead;
 		break;
+
+	/// @DnDAction : YoYo Games.Switch.Case
+	/// @DnDVersion : 1
+	/// @DnDHash : 2C83726B
+	/// @DnDParent : 430809EE
+	/// @DnDArgument : "const" "ps.ATTACK"
+	case ps.ATTACK:
+		/// @DnDAction : YoYo Games.Common.If_Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 60F874D1
+		/// @DnDParent : 2C83726B
+		/// @DnDArgument : "var" "spr_state"
+		/// @DnDArgument : "value" "1"
+		if(spr_state == 1)
+		{
+			/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+			/// @DnDVersion : 1
+			/// @DnDHash : 64281928
+			/// @DnDParent : 60F874D1
+			/// @DnDArgument : "value" "spr_forkattack"
+			/// @DnDArgument : "instvar" "10"
+			sprite_index = spr_forkattack;
+		}
+		break;
 }

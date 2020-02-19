@@ -1039,6 +1039,14 @@
             }
         },
         {
+            "Key": "9472adb1-a285-4782-adb2-d8d80cb6847c",
+            "Value": {
+                "id": "ff0e76b0-1028-456f-a0d8-02a79637995e",
+                "resourcePath": "sprites\\s_player_attack_fork\\s_player_attack_fork.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94b96950-5ad0-4f9f-bf05-d7279067c846",
             "Value": {
                 "id": "74309608-7d12-427d-a154-81bc135a03cb",

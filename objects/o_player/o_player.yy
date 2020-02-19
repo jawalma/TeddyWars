@@ -190,6 +190,20 @@
             "value": "s_player_walk_fork",
             "varName": "spr_forkwalk",
             "varType": 0
+        },
+        {
+            "id": "b843bf44-173a-4551-8e33-bb3dffe5befc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "spr_forkattack",
+            "varType": 0
         }
     ],
     "solid": false,

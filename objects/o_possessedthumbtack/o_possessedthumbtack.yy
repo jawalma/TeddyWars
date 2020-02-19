@@ -150,7 +150,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "-30",
+            "value": "-50",
             "varName": "yoffset",
             "varType": 0
         },
