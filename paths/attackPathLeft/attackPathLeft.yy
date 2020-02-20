@@ -11,24 +11,24 @@
             "id": "dd433250-c383-44cd-900e-dc875555bf28",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -65,
-            "y": 0,
+            "x": -69,
+            "y": 61,
             "speed": 100
         },
         {
             "id": "56c433fc-073f-4ab1-9089-d2322f106637",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -165,
-            "y": -100,
+            "x": -182,
+            "y": 63,
             "speed": 100
         },
         {
             "id": "955b23ee-7b38-4427-9249-1da6f4188682",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -365,
-            "y": 100,
+            "x": -361,
+            "y": 65,
             "speed": 100
         },
         {
