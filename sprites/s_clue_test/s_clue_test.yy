@@ -2,7 +2,7 @@
     "id": "7ccd540f-1523-4420-a8a6-c9463b2294e4",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_clue",
+    "name": "s_clue_test",
     "For3D": false,
     "HTile": false,
     "VTile": false,

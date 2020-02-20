@@ -478,11 +478,3 @@ switch(l74309087_0)
 		script_execute(anim);
 		break;
 }
-
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 08482CB8
-/// @DnDArgument : "code" "if (mouse_check_button_pressed(mb_left)){$(13_10)	instance_create_depth(mouse_x, mouse_y, 0, o_item);$(13_10)}"
-if (mouse_check_button_pressed(mb_left)){
-	instance_create_depth(mouse_x, mouse_y, 0, o_item);
-}
