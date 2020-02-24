@@ -1,5 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 67AA0C2C
-/// @DnDArgument : "code" "//player_immunity"
-//player_immunity
+/// @DnDHash : 2090D11D
+/// @DnDArgument : "expr" "ps.IDLE"
+/// @DnDArgument : "var" "state"
+state = ps.IDLE;

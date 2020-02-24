@@ -60,6 +60,24 @@ if(on_ground == true)
 			state = ps.WALK;
 		}
 	}
+
+	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+	/// @DnDVersion : 1
+	/// @DnDHash : 7630EC85
+	/// @DnDParent : 368ACEAC
+	/// @DnDArgument : "key" "ord("C")"
+	var l7630EC85_0;
+	l7630EC85_0 = keyboard_check_pressed(ord("C"));
+	if (l7630EC85_0)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 0657C2BA
+		/// @DnDParent : 7630EC85
+		/// @DnDArgument : "expr" "ps.ATTACK"
+		/// @DnDArgument : "var" "state"
+		state = ps.ATTACK;
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else

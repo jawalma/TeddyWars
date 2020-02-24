@@ -7,5 +7,6 @@ instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 7A20ECB5
 /// @DnDArgument : "objectid" "o_forkspear"
+/// @DnDArgument : "layer" ""Hitbox""
 /// @DnDSaveInfo : "objectid" "18722db7-b7c1-4aa3-bcc5-dd845d74fc90"
-instance_create_layer(0, 0, "Instances", o_forkspear);
+instance_create_layer(0, 0, "Hitbox", o_forkspear);
