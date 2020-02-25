@@ -70,6 +70,13 @@ if(hp <= 0)
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
+	/// @DnDHash : 71134D1F
+	/// @DnDParent : 4CECEA60
+	/// @DnDArgument : "var" "vsp"
+	vsp = 0;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
 	/// @DnDHash : 60BABB7F
 	/// @DnDParent : 4CECEA60
 	/// @DnDArgument : "expr" "es.DEAD"
