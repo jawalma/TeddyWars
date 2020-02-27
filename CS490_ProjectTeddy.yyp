@@ -338,7 +338,7 @@
             "Key": "2cfab1a3-0a65-41cf-a31c-66a7e28fb2d9",
             "Value": {
                 "id": "429f6d3e-471f-4803-81e6-9a1772f799dc",
-                "resourcePath": "views\\2cfab1a3-0a65-41cf-a31c-66a7e28fb2d9.yy",
+                "resourcePath": "views\/2cfab1a3-0a65-41cf-a31c-66a7e28fb2d9.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -394,7 +394,7 @@
             "Key": "324b094b-6c11-474f-ba23-29ef4b720c24",
             "Value": {
                 "id": "9b662c88-2c5d-465b-b366-c7b83c81a463",
-                "resourcePath": "objects\\o_weapon\\o_weapon.yy",
+                "resourcePath": "objects\/o_weapon\/o_weapon.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -652,6 +652,14 @@
                 "id": "4087b31b-c533-463e-ba38-2c551d3ad43b",
                 "resourcePath": "views\/4d2b90dd-312b-4db4-8b39-80eadc7644a4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e920b99-5de9-4ec6-889a-8e1e1d8302dc",
+            "Value": {
+                "id": "f36556a5-a256-468d-be2a-6d3375818c37",
+                "resourcePath": "objects\/o_menu_create\/o_menu_create.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1503,6 +1511,14 @@
             }
         },
         {
+            "Key": "d9351da2-5dde-4ac3-8de0-ce19011d3a1a",
+            "Value": {
+                "id": "192e6dde-1c46-40a3-b41c-9348ee1ff7ce",
+                "resourcePath": "rooms\/room_inventory\/room_inventory.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "daca36f0-c277-4a9f-adba-2ee4dce9117c",
             "Value": {
                 "id": "78b7e8a2-e943-4ec0-9e1f-2056a01215f5",
@@ -1644,6 +1660,14 @@
                 "id": "5e4dbae5-5072-463f-a7de-f2987cfc6e21",
                 "resourcePath": "scripts\/attackleftsetup\/attackleftsetup.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f148f22c-1530-4e22-8374-c730ae4810ac",
+            "Value": {
+                "id": "148937d8-d959-447c-98e8-234339d9a434",
+                "resourcePath": "sprites\/s_inventoryroom_bg\/s_inventoryroom_bg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
