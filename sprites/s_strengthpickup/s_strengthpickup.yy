@@ -2,7 +2,7 @@
     "id": "48177025-e629-4ef3-a65b-fb474b297d85",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "StrengthPickup",
+    "name": "s_strengthpickup",
     "For3D": false,
     "HTile": false,
     "VTile": false,

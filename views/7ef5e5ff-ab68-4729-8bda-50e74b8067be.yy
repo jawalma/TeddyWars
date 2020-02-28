@@ -5,9 +5,9 @@
     "name": "7ef5e5ff-ab68-4729-8bda-50e74b8067be",
     "children": [
         "1ab87ef3-7a22-46d7-8dd5-7613c735f8af",
-        "3cac7674-0c25-4563-b785-2b6cce728eb9",
-        "5910ce23-4c4a-408b-b1a5-0b6d34c54cd9",
-        "4e920b99-5de9-4ec6-889a-8e1e1d8302dc"
+        "e94c457f-919f-4842-8a39-d4fb46c4f7a1",
+        "1fe53c4b-6395-44a3-99c6-7209a57f39d2",
+        "3d392901-38ad-4b40-aacc-5897056e26de"
     ],
     "filterType": "GMObject",
     "folderName": "LevelProperties",
