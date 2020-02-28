@@ -18,7 +18,7 @@ if ((l71C5396F_0 > 0))
 	draw_set_font(fnt_clues);
 
 	draw_sprite(s_clueimg_test01, image_index, view_wview * 0.5, view_hview * 0.33);
-	draw_text_ext(view_wview * 0.5, view_hview * 0.65, string("You found a clue! This one is a different clue than the first one. Different clues are stored in the codex once they are collected (or they should be, if it works)."), 40, 1000);
+	draw_text_ext(view_wview * 0.5, view_hview * 0.65, string("You found a clue! This one is a different clue than the first one. Different clues are stored in the codex once they are collected."), 40, 1000);
 
 	surface_reset_target();
 }

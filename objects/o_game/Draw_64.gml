@@ -29,23 +29,6 @@ if(global.paused == true)
 	draw_text(view_wview * 0.5, view_hview * 0.83, string("PAUSED (Press P to Resume)") + "");
 }
 
-/// @DnDAction : YoYo Games.Drawing.Set_Color
-/// @DnDVersion : 1
-/// @DnDHash : 64751F25
-/// @DnDArgument : "color" "$69773B17"
-draw_set_colour($69773B17 & $ffffff);
-var l64751F25_0=($69773B17 >> 24);
-draw_set_alpha(l64751F25_0 / $ff);
-
-/// @DnDAction : YoYo Games.Drawing.Draw_Rectangle
-/// @DnDVersion : 1
-/// @DnDHash : 6FDF9833
-/// @DnDArgument : "y1" "640"
-/// @DnDArgument : "x2" "display_get_gui_width()"
-/// @DnDArgument : "y2" "730"
-/// @DnDArgument : "fill" "1"
-draw_rectangle(0, 640, display_get_gui_width(), 730, 0);
-
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 738B820C
