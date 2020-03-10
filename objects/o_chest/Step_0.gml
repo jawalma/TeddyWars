@@ -25,13 +25,48 @@ if(chest_open == false)
 		l5629B5F2_0 = keyboard_check_pressed(ord("Q"));
 		if (l5629B5F2_0)
 		{
-			/// @DnDAction : YoYo Games.Common.Variable
-			/// @DnDVersion : 1
-			/// @DnDHash : 308A6821
+			/// @DnDAction : YoYo Games.Common.Execute_Script
+			/// @DnDVersion : 1.1
+			/// @DnDHash : 7BD3707C
 			/// @DnDParent : 5629B5F2
-			/// @DnDArgument : "expr" "true"
-			/// @DnDArgument : "var" "chest_open"
-			chest_open = true;
+			/// @DnDArgument : "var" "item_found"
+			/// @DnDArgument : "var_temp" "1"
+			/// @DnDArgument : "script" "inventory_check"
+			/// @DnDArgument : "arg" ""chestkey""
+			/// @DnDSaveInfo : "script" "8e2fc4e6-1f62-4e7a-b4fc-d9badf0fc1ef"
+			var item_found = script_execute(inventory_check, "chestkey");
+		
+			/// @DnDAction : YoYo Games.Common.If_Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 0B1101D9
+			/// @DnDParent : 5629B5F2
+			/// @DnDArgument : "var" "item_found"
+			/// @DnDArgument : "value" "true"
+			if(item_found == true)
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 0375207A
+				/// @DnDParent : 0B1101D9
+				/// @DnDArgument : "expr" "true"
+				/// @DnDArgument : "var" "chest_open"
+				chest_open = true;
+			}
+		
+			/// @DnDAction : YoYo Games.Common.If_Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 51A64B53
+			/// @DnDParent : 5629B5F2
+			/// @DnDArgument : "var" "item_found"
+			/// @DnDArgument : "value" "false"
+			if(item_found == false)
+			{
+				/// @DnDAction : YoYo Games.Common.Exit_Event
+				/// @DnDVersion : 1
+				/// @DnDHash : 59F6430E
+				/// @DnDParent : 51A64B53
+				exit;
+			}
 		}
 	}
 }

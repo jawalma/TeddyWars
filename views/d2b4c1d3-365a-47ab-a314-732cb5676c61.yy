@@ -10,7 +10,8 @@
         "3fa2c945-cb98-4515-adce-5f953323a593",
         "2ff01a50-f123-4e17-a33c-55106063372c",
         "4d11c273-a0ed-46a6-bdd1-107d2424d128",
-        "e368cf57-ba71-4192-b281-2075eeddaae7"
+        "e368cf57-ba71-4192-b281-2075eeddaae7",
+        "ca666459-929c-4c7c-84da-c9cffa2422c3"
     ],
     "filterType": "GMSprite",
     "folderName": "CollectibleSprites",
