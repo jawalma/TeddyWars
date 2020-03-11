@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "37d0568e-d1cd-4857-a77c-aac31bb52364",
+            "Value": {
+                "id": "cf11555c-960a-4b0e-a22e-1c553e443382",
+                "resourcePath": "rooms\/room_demo\/room_demo.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a00f5df-4dc2-4d8f-8db3-695fe6606a8b",
             "Value": {
                 "id": "a121d8f1-1639-405d-bffa-66f08dd688ae",
@@ -508,6 +516,14 @@
                 "id": "7c6a8ab4-2bf7-4f48-b9e5-0451760819b2",
                 "resourcePath": "views\/3d392901-38ad-4b40-aacc-5897056e26de.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d69138f-63ce-45d7-aa94-f2a3ea7a93ab",
+            "Value": {
+                "id": "11bba74f-8982-4158-8ca0-f7ef08df0565",
+                "resourcePath": "sprites\/s_clueimg_chestkey\/s_clueimg_chestkey.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1100,14 +1116,6 @@
                 "id": "fb04f4c5-e6cf-4570-8035-02639cfa89b1",
                 "resourcePath": "scripts\/anim_enemy\/anim_enemy.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "8840e3eb-fbcf-4a9a-8d89-97c9162afebb",
-            "Value": {
-                "id": "dccb053f-a09f-4917-ab02-95199f67d983",
-                "resourcePath": "rooms\/room_demo\/room_demo.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

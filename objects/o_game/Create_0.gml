@@ -33,10 +33,9 @@ global.screenShot = -1;
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 5D603640
-/// @DnDArgument : "xpos" "2560"
-/// @DnDArgument : "ypos" "1440"
+/// @DnDHash : 05862F7C
+/// @DnDArgument : "xpos" "-100"
+/// @DnDArgument : "ypos" "-100"
 /// @DnDArgument : "objectid" "o_heart"
-/// @DnDArgument : "layer" ""Hearts""
 /// @DnDSaveInfo : "objectid" "d548cf62-af5c-4ba2-98dc-4ec8f05fb66f"
-instance_create_layer(2560, 1440, "Hearts", o_heart);
+instance_create_layer(-100, -100, "Instances", o_heart);

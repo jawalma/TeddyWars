@@ -31,9 +31,9 @@ switch(l2056C74B_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 7447C5E5
 		/// @DnDParent : 6F33BF6B
-		/// @DnDArgument : "expr" "(walk_spd*0.1)*facing"
+		/// @DnDArgument : "expr" "(walk_spd*0.15)*facing"
 		/// @DnDArgument : "var" "hsp"
-		hsp = (walk_spd*0.1)*facing;
+		hsp = (walk_spd*0.15)*facing;
 	
 		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
