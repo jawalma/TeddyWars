@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "1d250661-bc05-44d8-a946-59da89812348",
+            "Value": {
+                "id": "4d3d4cfb-0daa-45fe-8e09-5385b96c5735",
+                "resourcePath": "objects\/o_enemy_mug\/o_enemy_mug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f17cbc2-ef18-47fb-8f2a-c1af06f2f431",
             "Value": {
                 "id": "00a3b523-08bc-44bf-bb3e-8cd224b600f6",
@@ -799,6 +807,14 @@
             }
         },
         {
+            "Key": "5804aa00-30aa-43e9-b58d-b2ebcfae13c2",
+            "Value": {
+                "id": "a1901efc-a2b0-4a28-b321-1d8213faadff",
+                "resourcePath": "objects\/o_enemy_knives\/o_enemy_knives.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5910ce23-4c4a-408b-b1a5-0b6d34c54cd9",
             "Value": {
                 "id": "a9e6f4b6-7dc1-4205-8c1c-d5f4187856aa",
@@ -964,6 +980,14 @@
                 "id": "bba399d1-75d2-47e3-a7e1-04f11b057fd8",
                 "resourcePath": "views\/7b4e4b7c-e934-4421-b643-68e212694cb0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b86a056-6b5b-4078-9aa6-3754546f9fdf",
+            "Value": {
+                "id": "36998a64-6b0a-4726-9e0e-28c513c7b6ab",
+                "resourcePath": "sprites\/s_enemy_mug_dead\/s_enemy_mug_dead.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1415,6 +1439,22 @@
             }
         },
         {
+            "Key": "bc5ae2e9-42ad-4d34-adc9-a12a23ee610b",
+            "Value": {
+                "id": "7dcf87e8-3095-4729-8886-929ecbce95b7",
+                "resourcePath": "sprites\/s_enemy_knives_dead\/s_enemy_knives_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bcd3febc-b5ed-49b7-8170-7bc5f7e08126",
+            "Value": {
+                "id": "66e6a589-4de5-47de-81b1-779dfbc13132",
+                "resourcePath": "sprites\/s_enemy_knives\/s_enemy_knives.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd4d9004-2fe6-4b37-88ca-279053a292ac",
             "Value": {
                 "id": "ec84500e-c8df-43bb-a146-dcfd10578017",
@@ -1755,6 +1795,14 @@
             "Value": {
                 "id": "3f314384-3be3-4e5a-b48b-2e9a984d7fb4",
                 "resourcePath": "sprites\/s_keyprompt_Q\/s_keyprompt_Q.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6aad883-617c-4dfc-b8d9-dab960ed4bef",
+            "Value": {
+                "id": "620ea499-8066-4a67-b646-08faeec54589",
+                "resourcePath": "sprites\/s_enemy_mug\/s_enemy_mug.yy",
                 "resourceType": "GMSprite"
             }
         },
