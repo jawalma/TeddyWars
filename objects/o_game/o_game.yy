@@ -43,6 +43,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "3cac7674-0c25-4563-b785-2b6cce728eb9"
+        },
+        {
+            "id": "e6653a75-545f-4662-b668-86e12a6c9771",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 49,
+            "eventtype": 9,
+            "m_owner": "3cac7674-0c25-4563-b785-2b6cce728eb9"
+        },
+        {
+            "id": "83974667-4672-45b2-8d45-ef94f90308b7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 9,
+            "m_owner": "3cac7674-0c25-4563-b785-2b6cce728eb9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -102,6 +122,48 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "global.paused",
+            "varType": 3
+        },
+        {
+            "id": "473a4f74-ffde-40b2-8912-2e3bb964383f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "SpearUnlocked",
+            "varType": 3
+        },
+        {
+            "id": "a97201f7-7bb2-4f1b-ac27-d7348f83edc7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "ThumbtackUnlocked",
+            "varType": 3
+        },
+        {
+            "id": "24b737f7-dffd-42c4-855b-41bea363853e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "SwordUnlocked",
             "varType": 3
         }
     ],

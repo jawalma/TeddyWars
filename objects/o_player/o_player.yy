@@ -103,6 +103,26 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "960629a1-039a-4a89-ac3b-d6908c9e217f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "81c40454-7e6b-483b-9465-4027c7cdfbf0",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "bcd37acb-755b-455d-925b-c3949ca93833",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "e364da51-7c1c-46b2-9fa7-a8e4d1ca8176",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
     "maskSpriteId": "baeec946-970e-40b0-8f4f-66975e224689",
@@ -233,6 +253,34 @@
             "resourceFilter": 1023,
             "value": "s_player_attack_fork",
             "varName": "spr_forkattack",
+            "varType": 0
+        },
+        {
+            "id": "83b70017-d93d-42ab-8d02-837c5d5f3714",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_walk_scissor",
+            "varName": "spr_scissorwalk",
+            "varType": 0
+        },
+        {
+            "id": "aa5d868f-e009-4227-8480-dd13babcce2f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_idle_scissor",
+            "varName": "spr_scissoridle",
             "varType": 0
         }
     ],
