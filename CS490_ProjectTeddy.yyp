@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "09f91bea-0c04-4dfc-b856-fb96bce58c86",
+            "Value": {
+                "id": "469d25c9-8174-4cbe-8503-44ebf78ba2e6",
+                "resourcePath": "sprites\/s_clue_kitchen02\/s_clue_kitchen02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0a74bc3d-10b3-4141-8a4f-feb0f5d3e307",
             "Value": {
                 "id": "312ccf26-47c1-4998-b76f-9253bf35eced",
@@ -234,7 +242,7 @@
             "Key": "1741a1b3-456b-4aa7-8030-ad68e9a645a2",
             "Value": {
                 "id": "0df7b1e3-af39-49a3-bdce-7d483ab178dc",
-                "resourcePath": "sprites\\s_player_idle_scissor\\s_player_idle_scissor.yy",
+                "resourcePath": "sprites\/s_player_idle_scissor\/s_player_idle_scissor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "31f1695d-a903-4762-adaf-73ca4fab5db4",
+            "Value": {
+                "id": "defc2cd7-dd03-458e-b76e-d57be1c0a04c",
+                "resourcePath": "sprites\/s_clueimg_kitchen01\/s_clueimg_kitchen01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "324b094b-6c11-474f-ba23-29ef4b720c24",
             "Value": {
                 "id": "9b662c88-2c5d-465b-b366-c7b83c81a463",
@@ -604,6 +620,14 @@
                 "id": "4b0e8c76-a760-4ecb-abc7-bc7bc089641d",
                 "resourcePath": "scripts\/spriter_set_IK_mode\/spriter_set_IK_mode.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "43477ed1-0284-4927-a1fe-2ef8f128bc90",
+            "Value": {
+                "id": "71e3a38d-c416-4d6b-9729-05b1e7e3faf6",
+                "resourcePath": "sprites\/s_clueimg_kitchen02\/s_clueimg_kitchen02.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -791,6 +815,14 @@
             }
         },
         {
+            "Key": "52b93194-3d8d-462a-bb96-6a61ea5a9f29",
+            "Value": {
+                "id": "a1ca3abd-4d0e-4fa8-918d-085594eb42e0",
+                "resourcePath": "objects\/o_clue_kitchen03\/o_clue_kitchen03.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5625ca1f-e48b-4882-b600-42d0b9e4de4b",
             "Value": {
                 "id": "3be227c7-53a8-4c10-ae36-27ab7bc5389a",
@@ -827,6 +859,22 @@
             "Value": {
                 "id": "a9e6f4b6-7dc1-4205-8c1c-d5f4187856aa",
                 "resourcePath": "objects\/o_chest\/o_chest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5a2d682a-d86c-43e3-a75c-695f1a409fcb",
+            "Value": {
+                "id": "4550691d-efd6-4af1-afb4-0bd6dd0472e7",
+                "resourcePath": "sprites\/s_clue_kitchen01\/s_clue_kitchen01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bb01470-d32a-4e27-925b-0d49feae2ea9",
+            "Value": {
+                "id": "a1df349e-ca7c-4db3-8107-f320d8a17aeb",
+                "resourcePath": "objects\/o_clue_kitchen02\/o_clue_kitchen02.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -887,6 +935,14 @@
             }
         },
         {
+            "Key": "6959e2ba-0878-4c55-a55a-b943b5056f1a",
+            "Value": {
+                "id": "3c9cb1d0-8145-4fc7-b46d-f9f6b26167ce",
+                "resourcePath": "sprites\/s_clueimg_kitchen03\/s_clueimg_kitchen03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69b0bc26-7364-4586-a7ac-ad7b6e39e821",
             "Value": {
                 "id": "132de670-e11d-4455-a817-788aa67ce64a",
@@ -938,7 +994,7 @@
             "Key": "74082523-b112-4798-88c3-9de73bdc8276",
             "Value": {
                 "id": "a64d7f71-2616-4874-871a-9418f0fe690f",
-                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourcePath": "objects\/o_enemy\/o_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1146,7 +1202,7 @@
             "Key": "87122b82-f917-41c4-94b1-b4148505674b",
             "Value": {
                 "id": "621f5763-6507-4879-a628-05308666291d",
-                "resourcePath": "sprites\\s_player_walk_scissor\\s_player_walk_scissor.yy",
+                "resourcePath": "sprites\/s_player_walk_scissor\/s_player_walk_scissor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1402,7 +1458,7 @@
             "Key": "b07b3990-f2f1-4e9c-8da0-8d1f048337f8",
             "Value": {
                 "id": "62b6443d-e3c6-4639-9489-04d82a9189c7",
-                "resourcePath": "views\\b07b3990-f2f1-4e9c-8da0-8d1f048337f8.yy",
+                "resourcePath": "views\/b07b3990-f2f1-4e9c-8da0-8d1f048337f8.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1500,6 +1556,14 @@
                 "id": "01c187d3-2bdc-4e0b-80cb-ef971aea6b80",
                 "resourcePath": "sprites\/s_halfscissorpickup\/s_halfscissorpickup.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c04024ab-8551-4e8f-b68f-12e50fa37370",
+            "Value": {
+                "id": "428327e0-d328-4245-98ca-ee6adf521f53",
+                "resourcePath": "objects\/o_clue_kitchen01\/o_clue_kitchen01.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1898,7 +1962,7 @@
             "Key": "f5e30f8e-8864-40bd-b25e-1602059af0a1",
             "Value": {
                 "id": "31a60c42-887a-49f9-9f4d-2ae29a5f31c0",
-                "resourcePath": "sprites\\sprite42\\sprite42.yy",
+                "resourcePath": "sprites\/sprite42\/sprite42.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1907,6 +1971,14 @@
             "Value": {
                 "id": "64a8c00d-6eda-4cb4-8297-f92aeb23bbfe",
                 "resourcePath": "sprites\/s_clueimg_test\/s_clueimg_test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9716bcb-ec34-49c0-8627-66ba94a5addd",
+            "Value": {
+                "id": "e364942d-924d-460a-b369-c67b443a4afc",
+                "resourcePath": "sprites\/s_clue_kitchen03\/s_clue_kitchen03.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1946,7 +2018,7 @@
             "Key": "ff4eb243-84db-41a3-9ecc-bda0b6765299",
             "Value": {
                 "id": "2fe37a21-7021-4de9-98aa-454e9b8c8850",
-                "resourcePath": "objects\\o_pickups\\o_pickups.yy",
+                "resourcePath": "objects\/o_pickups\/o_pickups.yy",
                 "resourceType": "GMObject"
             }
         }
