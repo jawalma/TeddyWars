@@ -100,8 +100,8 @@ if(chest_open == true)
 		/// @DnDParent : 0B4B9BE6
 		/// @DnDArgument : "xpos" "o_chest.x"
 		/// @DnDArgument : "ypos" "o_chest.y - 125"
-		/// @DnDArgument : "objectid" "o_clue_test01"
-		/// @DnDSaveInfo : "objectid" "d184af33-44ac-4473-b162-ebb940e9bdc6"
-		instance_create_layer(o_chest.x, o_chest.y - 125, "Instances", o_clue_test01);
+		/// @DnDArgument : "objectid" "o_clue_kitchen01"
+		/// @DnDSaveInfo : "objectid" "c04024ab-8551-4e8f-b68f-12e50fa37370"
+		instance_create_layer(o_chest.x, o_chest.y - 125, "Instances", o_clue_kitchen01);
 	}
 }
