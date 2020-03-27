@@ -70,13 +70,22 @@ if(on_ground == true)
 	l7630EC85_0 = keyboard_check_pressed(ord("C"));
 	if (l7630EC85_0)
 	{
-		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 0657C2BA
+		/// @DnDHash : 7B1010D4
 		/// @DnDParent : 7630EC85
-		/// @DnDArgument : "expr" "ps.ATTACK"
-		/// @DnDArgument : "var" "state"
-		state = ps.ATTACK;
+		/// @DnDArgument : "var" "spr_state"
+		/// @DnDArgument : "op" "2"
+		if(spr_state > 0)
+		{
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 0657C2BA
+			/// @DnDParent : 7B1010D4
+			/// @DnDArgument : "expr" "ps.ATTACK"
+			/// @DnDArgument : "var" "state"
+			state = ps.ATTACK;
+		}
 	}
 }
 

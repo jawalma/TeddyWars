@@ -25,16 +25,6 @@
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         },
         {
-            "id": "1159bc30-9d54-41e8-9060-426993bbd8c7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 90,
-            "eventtype": 9,
-            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
-        },
-        {
             "id": "01e26666-e3b5-41e3-be4d-e9ddbc6dd5b7",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -122,6 +112,36 @@
             "collisionObjectId": "e364da51-7c1c-46b2-9fa7-a8e4d1ca8176",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "83f22c74-2f02-468a-b114-c0a3ba625a9c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 48,
+            "eventtype": 9,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "875b2038-28fb-4ce6-a5fb-440a5593b9e7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 49,
+            "eventtype": 9,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "175bf53e-5eaf-4502-a919-2c383761e5b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 9,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
@@ -282,6 +302,48 @@
             "value": "s_player_idle_scissor",
             "varName": "spr_scissoridle",
             "varType": 0
+        },
+        {
+            "id": "5ae27d26-2b5b-451c-85cd-a5b5f1ebda20",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "scissor_unlocked",
+            "varType": 3
+        },
+        {
+            "id": "152ae8d8-270d-49b6-8281-2af16a43285b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "thumbtack_unlocked",
+            "varType": 3
+        },
+        {
+            "id": "a4d4b3b6-e6ca-4307-8275-f2e76edf84bb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "fork_unlocked",
+            "varType": 3
         }
     ],
     "solid": false,
