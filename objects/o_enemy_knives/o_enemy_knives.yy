@@ -106,14 +106,6 @@
             "value": "s_enemy_knives_dead"
         },
         {
-            "id": "a110a9ee-af39-4ca9-982e-9dad564f0cd4",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
-            "propertyId": "fa686a37-bf6b-4f2c-9baa-1f7d839ebaa9",
-            "value": "es.WALK"
-        },
-        {
             "id": "df46c7f2-8418-47e1-a0eb-2036e7d6ae26",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",

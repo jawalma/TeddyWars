@@ -12,7 +12,8 @@
         "47d2737c-9e82-434e-88e9-81184b421c4f",
         "d184af33-44ac-4473-b162-ebb940e9bdc6",
         "1598f68c-ac3b-4eb8-9694-bbb930289299",
-        "a09a93b1-5dc3-4bd4-820f-38536f5cb236"
+        "a09a93b1-5dc3-4bd4-820f-38536f5cb236",
+        "f56c41f1-25ce-4ea4-8f5c-20adb290386c"
     ],
     "filterType": "GMObject",
     "folderName": "Collectibles",

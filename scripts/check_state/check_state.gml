@@ -87,6 +87,83 @@ if(on_ground == true)
 			state = ps.ATTACK;
 		}
 	}
+
+	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+	/// @DnDVersion : 1
+	/// @DnDHash : 0201B3BE
+	/// @DnDParent : 368ACEAC
+	/// @DnDArgument : "key" "ord("Z")"
+	var l0201B3BE_0;
+	l0201B3BE_0 = keyboard_check_pressed(ord("Z"));
+	if (l0201B3BE_0)
+	{
+		/// @DnDAction : YoYo Games.Common.If_Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 504B4D1D
+		/// @DnDParent : 0201B3BE
+		/// @DnDArgument : "var" "pws_state"
+		/// @DnDArgument : "not" "1"
+		/// @DnDArgument : "value" "pws.NORMAL"
+		if(!(pws_state == pws.NORMAL))
+		{
+			/// @DnDAction : YoYo Games.Common.If_Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 22AA870A
+			/// @DnDParent : 504B4D1D
+			/// @DnDArgument : "var" "global.buttons"
+			/// @DnDArgument : "op" "4"
+			/// @DnDArgument : "value" "10"
+			if(global.buttons >= 10)
+			{
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 443A87E2
+				/// @DnDParent : 22AA870A
+				/// @DnDArgument : "expr" "ps.ABILITY"
+				/// @DnDArgument : "var" "state"
+				state = ps.ABILITY;
+			
+				/// @DnDAction : YoYo Games.Common.Variable
+				/// @DnDVersion : 1
+				/// @DnDHash : 6560E9CA
+				/// @DnDParent : 22AA870A
+				/// @DnDArgument : "expr" "-10"
+				/// @DnDArgument : "expr_relative" "1"
+				/// @DnDArgument : "var" "global.buttons"
+				global.buttons += -10;
+			
+				/// @DnDAction : YoYo Games.Instances.Set_Alarm
+				/// @DnDVersion : 1
+				/// @DnDHash : 7500740C
+				/// @DnDApplyTo : 1a369221-2e1e-4790-b14a-cf3fe29dcb3c
+				/// @DnDParent : 22AA870A
+				/// @DnDArgument : "steps" "600"
+				/// @DnDArgument : "alarm" "2"
+				with(o_player) {
+				alarm_set(2, 600);
+				
+				}
+			}
+		
+			/// @DnDAction : YoYo Games.Common.Else
+			/// @DnDVersion : 1
+			/// @DnDHash : 32F8E41E
+			/// @DnDParent : 504B4D1D
+			else
+			{
+			
+			}
+		}
+	
+		/// @DnDAction : YoYo Games.Common.Else
+		/// @DnDVersion : 1
+		/// @DnDHash : 0964206C
+		/// @DnDParent : 0201B3BE
+		else
+		{
+		
+		}
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else

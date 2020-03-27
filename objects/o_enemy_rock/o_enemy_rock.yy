@@ -43,16 +43,6 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "eafcffe7-71c8-490c-a107-87ccc1ff5df8"
-        },
-        {
-            "id": "c40f614f-d87f-4e57-89a7-5a7643b929d4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "324b094b-6c11-474f-ba23-29ef4b720c24",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "eafcffe7-71c8-490c-a107-87ccc1ff5df8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -104,14 +94,6 @@
             "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
             "propertyId": "a84ef526-f45c-4916-a5e9-d768525278e2",
             "value": "s_enemy_rock_dead"
-        },
-        {
-            "id": "e0cb345d-72e1-4da7-806b-037df1e57fb7",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
-            "propertyId": "fa686a37-bf6b-4f2c-9baa-1f7d839ebaa9",
-            "value": "es.WALK"
         }
     ],
     "parentObjectId": "74082523-b112-4798-88c3-9de73bdc8276",
