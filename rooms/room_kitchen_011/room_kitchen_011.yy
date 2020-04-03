@@ -1,6 +1,6 @@
 
 {
-    "name": "room_kitchen_02",
+    "name": "room_kitchen_011",
     "id": "8f30e466-2781-442f-96d1-7634424d5033",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
