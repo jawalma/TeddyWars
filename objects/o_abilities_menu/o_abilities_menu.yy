@@ -1,48 +1,48 @@
 {
-    "id": "94b96950-5ad0-4f9f-bf05-d7279067c846",
+    "id": "fd669449-c425-474c-81d1-9b10de3604b1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_menu",
+    "name": "o_abilities_menu",
     "eventList": [
         {
-            "id": "fe27b647-3305-473b-bff5-0a8bcd524e13",
+            "id": "c977a5d2-7692-4355-acea-46d5a57a2f70",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 64,
             "eventtype": 8,
-            "m_owner": "94b96950-5ad0-4f9f-bf05-d7279067c846"
+            "m_owner": "fd669449-c425-474c-81d1-9b10de3604b1"
         },
         {
-            "id": "4402681e-bf48-4d4d-9a4f-2502c7dce4c9",
+            "id": "02fe0393-b184-436d-86c1-479ff6f39e75",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "94b96950-5ad0-4f9f-bf05-d7279067c846"
+            "m_owner": "fd669449-c425-474c-81d1-9b10de3604b1"
         },
         {
-            "id": "190575e6-2333-4f9c-84fa-28c7f4ed9daa",
+            "id": "150f24ac-ad8a-4ec6-9570-5537ef01d6f6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "94b96950-5ad0-4f9f-bf05-d7279067c846"
+            "m_owner": "fd669449-c425-474c-81d1-9b10de3604b1"
         },
         {
-            "id": "59b6dab1-7b90-4e5b-8e8a-ac72c1158d78",
+            "id": "63c89b2a-7656-44dd-9e0d-2ab65a616eeb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "94b96950-5ad0-4f9f-bf05-d7279067c846"
+            "m_owner": "fd669449-c425-474c-81d1-9b10de3604b1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,7 +63,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "1ae0b981-fdd3-475e-9b25-21e294abae3a",
+            "id": "c94b7036-98ee-47d5-8cd0-cf0bd9a5be76",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,

@@ -1,9 +1,3 @@
-/// @DnDAction : YoYo Games.Rooms.Get_Current_Room
-/// @DnDVersion : 1
-/// @DnDHash : 4F462059
-/// @DnDArgument : "var" "room"
-room = room;
-
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 /// @DnDVersion : 1
 /// @DnDHash : 6EA76C0D
@@ -154,11 +148,13 @@ if(room==room_inventory)
 		    }
 			instance_activate_all();
 	
-		/// @DnDAction : YoYo Games.Rooms.Previous_Room
+		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
-		/// @DnDHash : 0B0E9CAA
+		/// @DnDHash : 32A47942
 		/// @DnDParent : 15FB9F91
-		room_goto_previous();
+		/// @DnDArgument : "room" "room_kitchen_01"
+		/// @DnDSaveInfo : "room" "888cf95a-a8ca-40c5-aa1a-6177548e1743"
+		room_goto(room_kitchen_01);
 	}
 }
 
@@ -187,10 +183,12 @@ if(room==room_abilities_inventory)
 		    }
 			instance_activate_all();
 	
-		/// @DnDAction : YoYo Games.Rooms.Previous_Room
+		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
-		/// @DnDHash : 7194258B
+		/// @DnDHash : 75D0BF9D
 		/// @DnDParent : 11E0B2F7
-		room_goto_previous();
+		/// @DnDArgument : "room" "room_kitchen_01"
+		/// @DnDSaveInfo : "room" "888cf95a-a8ca-40c5-aa1a-6177548e1743"
+		room_goto(room_kitchen_01);
 	}
 }
