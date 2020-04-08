@@ -45,10 +45,10 @@ switch(l430809EE_0)
 		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 3D3758B0
+		/// @DnDDisabled : 1
 		/// @DnDParent : 47F6F504
 		/// @DnDArgument : "script" "check_facing"
 		/// @DnDSaveInfo : "script" "616ab3f0-6bf9-4ddf-8529-6083ffb8262b"
-		script_execute(check_facing);
 		break;
 
 	/// @DnDAction : YoYo Games.Switch.Case
