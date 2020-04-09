@@ -31,6 +31,14 @@ if(!(state == es.DEAD))
 		/// @DnDArgument : "value" "es.DEAD"
 		if(!(state == es.DEAD))
 		{
+			/// @DnDAction : YoYo Games.Audio.Play_Audio
+			/// @DnDVersion : 1
+			/// @DnDHash : 0F930D73
+			/// @DnDParent : 7D444C5A
+			/// @DnDArgument : "soundid" "sd_enemyhit"
+			/// @DnDSaveInfo : "soundid" "061fe312-7d2d-4ec6-9b64-62029c894336"
+			audio_play_sound(sd_enemyhit, 0, 0);
+		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 18236764

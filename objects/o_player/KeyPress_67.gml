@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 30ADD9F4
+/// @DnDArgument : "soundid" "sd_teddyattack"
+/// @DnDSaveInfo : "soundid" "b0845f3e-8d61-40b4-a874-194271387920"
+audio_play_sound(sd_teddyattack, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 04538A66

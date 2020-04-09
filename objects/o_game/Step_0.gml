@@ -150,7 +150,7 @@ if(room==room_inventory)
 	
 		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
-		/// @DnDHash : 32A47942
+		/// @DnDHash : 7719FA22
 		/// @DnDParent : 15FB9F91
 		/// @DnDArgument : "room" "room_kitchen_01"
 		/// @DnDSaveInfo : "room" "888cf95a-a8ca-40c5-aa1a-6177548e1743"
@@ -185,7 +185,7 @@ if(room==room_abilities_inventory)
 	
 		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
-		/// @DnDHash : 75D0BF9D
+		/// @DnDHash : 193F9B96
 		/// @DnDParent : 11E0B2F7
 		/// @DnDArgument : "room" "room_kitchen_01"
 		/// @DnDSaveInfo : "room" "888cf95a-a8ca-40c5-aa1a-6177548e1743"

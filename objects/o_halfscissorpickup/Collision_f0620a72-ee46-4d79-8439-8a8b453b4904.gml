@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 446E704A
+/// @DnDArgument : "soundid" "sd_weaponpickup"
+/// @DnDSaveInfo : "soundid" "aa305a04-1a20-4d18-a1ca-f38d183df46b"
+audio_play_sound(sd_weaponpickup, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 751A311C

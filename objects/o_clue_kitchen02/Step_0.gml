@@ -25,6 +25,14 @@ if ((l11FEE041_0 > 0))
 	/// @DnDArgument : "expr" "alarm[1]<=0"
 	if(alarm[1]<=0)
 	{
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 4C4EB341
+		/// @DnDParent : 6EDEAA78
+		/// @DnDArgument : "soundid" "sd_cluecollect"
+		/// @DnDSaveInfo : "soundid" "71b017b1-8990-4ddd-8bd2-451763ed2aac"
+		audio_play_sound(sd_cluecollect, 0, 0);
+	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 3719151D

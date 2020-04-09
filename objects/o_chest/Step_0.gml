@@ -51,6 +51,14 @@ if(chest_open == false)
 				/// @DnDArgument : "expr" "true"
 				/// @DnDArgument : "var" "chest_open"
 				chest_open = true;
+			
+				/// @DnDAction : YoYo Games.Audio.Play_Audio
+				/// @DnDVersion : 1
+				/// @DnDHash : 12FE2304
+				/// @DnDParent : 0B1101D9
+				/// @DnDArgument : "soundid" "sd_chestopen"
+				/// @DnDSaveInfo : "soundid" "24e73833-2650-446d-b84c-9792a3fbcbee"
+				audio_play_sound(sd_chestopen, 0, 0);
 			}
 		
 			/// @DnDAction : YoYo Games.Common.If_Variable
