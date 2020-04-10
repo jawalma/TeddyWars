@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "003b9205-dacc-4d77-8131-09fb15bbe689",
+            "Value": {
+                "id": "e44dfcac-3a79-435a-8deb-e319b55f9ab4",
+                "resourcePath": "sprites\\s_microwave\\s_microwave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "00ce123e-27a7-4458-8923-5d89eae050f7",
             "Value": {
                 "id": "ad3b173f-9499-4803-a50f-ebe0ff21ae3e",
@@ -444,6 +452,14 @@
                 "id": "24e43328-b16d-47b4-af08-450b3c79553e",
                 "resourcePath": "views\/2bd1ec6a-0f0f-40b0-a30b-1f399f21416f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2c214a8c-9cb8-4e39-9d32-5b4fb29fc2cb",
+            "Value": {
+                "id": "682826e1-6db4-4d76-8863-1af8567f8e02",
+                "resourcePath": "sprites\\s_fridgephotos\\s_fridgephotos.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -863,6 +879,14 @@
             }
         },
         {
+            "Key": "4f392876-6c92-4c02-8a3c-1cbc1febcf8e",
+            "Value": {
+                "id": "da41bd64-1e37-405b-88e7-347fb9c7d3ea",
+                "resourcePath": "objects\\o_calendar\\o_calendar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f8989c1-191f-43d3-b9bd-076262ce63c1",
             "Value": {
                 "id": "a5bdd1e2-195a-4c7d-b1e9-b0706313b41a",
@@ -900,6 +924,14 @@
                 "id": "a1ca3abd-4d0e-4fa8-918d-085594eb42e0",
                 "resourcePath": "objects\/o_clue_kitchen03\/o_clue_kitchen03.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "54caf52a-82d9-4c5b-b94d-a4bdd41664f5",
+            "Value": {
+                "id": "1eeeba9b-ce09-4eff-8a70-6fc43436ad55",
+                "resourcePath": "views\\54caf52a-82d9-4c5b-b94d-a4bdd41664f5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1087,6 +1119,14 @@
             }
         },
         {
+            "Key": "6feb3f35-fea9-4cd4-b2d3-e18454491cde",
+            "Value": {
+                "id": "28e47101-af71-4eec-aba0-5ec50294190b",
+                "resourcePath": "sprites\\s_calendar\\s_calendar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7172d071-b539-4616-8b91-058f13b64897",
             "Value": {
                 "id": "996975b2-fd79-4643-a16b-42433d91a430",
@@ -1156,6 +1196,14 @@
                 "id": "a2a9bbb0-c4ef-428b-8dee-d18de0c9ac63",
                 "resourcePath": "sprites\/s_keyprompt_Z\/s_keyprompt_Z.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77931cf6-f67c-4d45-acb2-83720a9fe539",
+            "Value": {
+                "id": "76706635-78c2-403b-8b30-1bb4476d24bd",
+                "resourcePath": "objects\\o_clock\\o_clock.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1391,6 +1439,14 @@
             }
         },
         {
+            "Key": "8a68ea2f-23b9-449b-bace-346ec315084f",
+            "Value": {
+                "id": "7e8d24b1-abb3-4a8f-b163-6eadc3296450",
+                "resourcePath": "objects\\o_fridgepictures\\o_fridgepictures.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ad8b3ff-1721-4343-8a46-d4057264887a",
             "Value": {
                 "id": "6de58c3b-0e81-4d67-a32e-d027bd3d9af0",
@@ -1420,14 +1476,6 @@
                 "id": "8e4c0993-9087-470a-a9bd-a2a2569c3419",
                 "resourcePath": "scripts\/inventory_check\/inventory_check.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "8e469aa6-28bc-4c56-9a01-e2da7be0f652",
-            "Value": {
-                "id": "05195e40-ae58-4d52-9398-b8da074bd393",
-                "resourcePath": "sprites\/sprite54\/sprite54.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1604,6 +1652,14 @@
                 "id": "1278dee1-5c21-4bc6-99dc-e3798c458fe8",
                 "resourcePath": "views\/a57d4c88-7d3d-4ca9-ab26-84bbcc359808.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a65227bc-d577-4947-a746-9656ca974611",
+            "Value": {
+                "id": "baad8919-3c6d-4267-b227-cffc487b0af6",
+                "resourcePath": "sprites\\s_clock\\s_clock.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2148,6 +2204,14 @@
                 "id": "3f314384-3be3-4e5a-b48b-2e9a984d7fb4",
                 "resourcePath": "sprites\/s_keyprompt_Q\/s_keyprompt_Q.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e69eb29a-8df0-4919-93df-d71b549a2670",
+            "Value": {
+                "id": "fbdf1d04-bfc4-4355-8c5e-8f3f2e26325f",
+                "resourcePath": "objects\\o_microwave\\o_microwave.yy",
+                "resourceType": "GMObject"
             }
         },
         {
