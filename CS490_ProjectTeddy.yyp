@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "154facbb-e3d5-45e4-874a-2ec78cc60659",
+            "Value": {
+                "id": "a20a43f0-9e9a-47d4-aa9b-669e10727034",
+                "resourcePath": "sprites\\s_player_walk_fork_final\\s_player_walk_fork_final.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1598f68c-ac3b-4eb8-9694-bbb930289299",
             "Value": {
                 "id": "0898f13c-59cc-498d-a37f-99efc4a9a13d",
@@ -1327,11 +1335,27 @@
             }
         },
         {
+            "Key": "77ad04d9-ebc9-44e1-aa07-b357fdd72402",
+            "Value": {
+                "id": "1ab244df-8bad-472a-87de-7d904e93cdfd",
+                "resourcePath": "sprites\\s_player_air_fork_final\\s_player_air_fork_final.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "782fafa2-57d6-4873-bc11-0b95d3abe56e",
             "Value": {
                 "id": "7f579be9-72ed-419c-a3d5-bc237a26c8a6",
                 "resourcePath": "views\/782fafa2-57d6-4873-bc11-0b95d3abe56e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "784fb18c-2707-45ec-b547-2f4537aa8207",
+            "Value": {
+                "id": "7820d126-037b-4855-82d9-505e57f7a595",
+                "resourcePath": "sprites\\s_player_idle_fork_final\\s_player_idle_fork_final.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1447,6 +1471,14 @@
             }
         },
         {
+            "Key": "811da7b8-714f-4465-b601-d53dd66c44ed",
+            "Value": {
+                "id": "cc57cf40-60f5-4a0c-b9b7-c4069ab2fdfc",
+                "resourcePath": "views\\811da7b8-714f-4465-b601-d53dd66c44ed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8183bcab-39c5-4478-864b-79daef3e725e",
             "Value": {
                 "id": "06cc2ac4-ca37-421c-aaf5-df8ee8f57dff",
@@ -1476,6 +1508,14 @@
                 "id": "7be2447d-ef73-4003-be45-28e6ceed0857",
                 "resourcePath": "scripts\/spriter_start_resume_playback\/spriter_start_resume_playback.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "83c13f33-f4b5-4010-b2fa-8880013fcd74",
+            "Value": {
+                "id": "dd422f0b-c148-4e7a-bffc-1f0944ee81d3",
+                "resourcePath": "views\\83c13f33-f4b5-4010-b2fa-8880013fcd74.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
