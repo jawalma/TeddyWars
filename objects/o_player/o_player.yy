@@ -175,7 +175,7 @@
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
-    "maskSpriteId": "baeec946-970e-40b0-8f4f-66975e224689",
+    "maskSpriteId": "4eb4c3ad-7bc4-4d8d-b14b-8ae29d7808bc",
     "overriddenProperties": null,
     "parentObjectId": "d6fcc443-ba40-4a98-9493-7aa626c42970",
     "persistent": false,
@@ -301,7 +301,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_attack_fork",
+            "value": "s_player_fork_lunge_final",
             "varName": "spr_forkattack",
             "varType": 0
         },
@@ -419,6 +419,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "baeec946-970e-40b0-8f4f-66975e224689",
+    "spriteId": "4eb4c3ad-7bc4-4d8d-b14b-8ae29d7808bc",
     "visible": true
 }

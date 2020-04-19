@@ -6,7 +6,7 @@
     "eventList": [
         
     ],
-    "maskSpriteId": "baeec946-970e-40b0-8f4f-66975e224689",
+    "maskSpriteId": "4eb4c3ad-7bc4-4d8d-b14b-8ae29d7808bc",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -117,7 +117,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_idle",
+            "value": "s_player_idle_final",
             "varName": "spr_idle",
             "varType": 0
         },
@@ -131,7 +131,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_walk",
+            "value": "s_player_walk_final",
             "varName": "spr_walk",
             "varType": 0
         },
@@ -145,7 +145,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_air",
+            "value": "s_player_air_final",
             "varName": "spr_air",
             "varType": 0
         },
@@ -291,6 +291,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "baeec946-970e-40b0-8f4f-66975e224689",
+    "spriteId": "4eb4c3ad-7bc4-4d8d-b14b-8ae29d7808bc",
     "visible": true
 }
