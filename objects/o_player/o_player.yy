@@ -287,7 +287,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_walk_fork",
+            "value": "s_player_walk_fork_final",
             "varName": "spr_forkwalk",
             "varType": 0
         },
