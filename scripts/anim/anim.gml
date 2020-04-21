@@ -47,9 +47,9 @@ switch(l430809EE_0)
 			/// @DnDVersion : 1
 			/// @DnDHash : 723C502A
 			/// @DnDParent : 32A04FF5
-			/// @DnDArgument : "value" "spr_idle"
+			/// @DnDArgument : "value" "spr_forkidle"
 			/// @DnDArgument : "instvar" "10"
-			sprite_index = spr_idle;
+			sprite_index = spr_forkidle;
 		
 			/// @DnDAction : YoYo Games.Common.Execute_Script
 			/// @DnDVersion : 1.1
@@ -185,9 +185,9 @@ switch(l430809EE_0)
 			/// @DnDVersion : 1
 			/// @DnDHash : 0AF6C0B2
 			/// @DnDParent : 2BA24880
-			/// @DnDArgument : "value" "spr_forkattack"
+			/// @DnDArgument : "value" "spr_forkair"
 			/// @DnDArgument : "instvar" "10"
-			sprite_index = spr_forkattack;
+			sprite_index = spr_forkair;
 		
 			/// @DnDAction : YoYo Games.Common.Execute_Script
 			/// @DnDVersion : 1.1

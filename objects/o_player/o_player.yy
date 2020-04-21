@@ -173,6 +173,26 @@
             "enumb": 2,
             "eventtype": 2,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "20a05628-6e7d-4915-a120-4f9b56ecf216",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "05401072-2869-49c6-a170-63eb37d730e1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "be60942d-6b22-4d67-98a4-4c5569163813",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "bb92af11-e698-4f94-af0e-7787b3ad8ce8",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         }
     ],
     "maskSpriteId": "4eb4c3ad-7bc4-4d8d-b14b-8ae29d7808bc",
@@ -303,6 +323,34 @@
             "resourceFilter": 1023,
             "value": "s_player_fork_lunge_final",
             "varName": "spr_forkattack",
+            "varType": 0
+        },
+        {
+            "id": "76a362cd-3581-4b78-9702-42218d2d92a2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_idle_fork_final",
+            "varName": "spr_forkidle",
+            "varType": 0
+        },
+        {
+            "id": "c46555bb-560d-4147-b036-82bcbe1ebec6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_air_fork_final",
+            "varName": "spr_forkair",
             "varType": 0
         },
         {

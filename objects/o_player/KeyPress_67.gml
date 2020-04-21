@@ -25,8 +25,7 @@ if(spr_state == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 770D7AEA
 	/// @DnDParent : 04538A66
-	/// @DnDArgument : "steps" "10"
-	alarm_set(0, 10);
+	alarm_set(0, 30);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
