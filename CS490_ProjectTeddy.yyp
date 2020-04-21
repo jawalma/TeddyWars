@@ -554,7 +554,7 @@
             "Key": "2f9bb939-acfa-4995-9197-5b330112864e",
             "Value": {
                 "id": "888fd988-2634-4126-ac5f-c61965d80a35",
-                "resourcePath": "objects\\o_comic_01\\o_comic_01.yy",
+                "resourcePath": "objects\\o_comic\\o_comic.yy",
                 "resourceType": "GMObject"
             }
         },

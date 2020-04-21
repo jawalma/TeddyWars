@@ -2,7 +2,7 @@
     "id": "2f9bb939-acfa-4995-9197-5b330112864e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_comic_01",
+    "name": "o_comic",
     "eventList": [
         {
             "id": "7098db0f-5ef3-44c3-acb1-10dad7fe2459",
