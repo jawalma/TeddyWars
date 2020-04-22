@@ -1479,6 +1479,14 @@
             }
         },
         {
+            "Key": "7e401ebb-4ea0-415d-85f9-86e15f099ce5",
+            "Value": {
+                "id": "a822ce71-e28c-4417-a87c-bf40dd15b338",
+                "resourcePath": "objects\/o_heart_toaster\/o_heart_toaster.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ef5e5ff-ab68-4729-8bda-50e74b8067be",
             "Value": {
                 "id": "fbc6517b-1cca-49ac-b44b-a1be49385249",
@@ -1628,6 +1636,14 @@
                 "id": "90aaa91f-ac77-4079-8b60-13e50db66a85",
                 "resourcePath": "rooms\/room_kitchen_01\/room_kitchen_01.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "89866767-1f42-48f8-8c57-11b26b14c161",
+            "Value": {
+                "id": "e5c9d70a-74ac-4ac4-a892-2e349499308c",
+                "resourcePath": "sprites\/s_comic_collect\/s_comic_collect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1906,7 +1922,7 @@
             "Key": "a8989d06-c48d-4a39-a6a7-7a53e93768b1",
             "Value": {
                 "id": "5b283cf8-5fd1-4250-82e9-b57e1a052ce4",
-                "resourcePath": "sprites\\s_comic_image\\s_comic_image.yy",
+                "resourcePath": "sprites\/s_comic_image\/s_comic_image.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2218,7 +2234,7 @@
             "Key": "ca891325-0423-484b-b6a0-23856b7513ec",
             "Value": {
                 "id": "a4591b43-86c1-4e5b-b591-2c3d904efafb",
-                "resourcePath": "sprites\\s_comic_01\\s_comic_01.yy",
+                "resourcePath": "sprites\/s_comic_01\/s_comic_01.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2642,7 +2658,7 @@
             "Key": "fcc0f9d0-ae5b-43a9-b89a-5fbaf4d5cf42",
             "Value": {
                 "id": "22e9aff3-cc74-4ad4-9c4d-14b5f94d507b",
-                "resourcePath": "objects\\o_comic_01\\o_comic_01.yy",
+                "resourcePath": "objects\/o_comic_01\/o_comic_01.yy",
                 "resourceType": "GMObject"
             }
         },
