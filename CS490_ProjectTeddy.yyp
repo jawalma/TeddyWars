@@ -1255,6 +1255,14 @@
             }
         },
         {
+            "Key": "6cebe464-99cc-439a-bb00-83114defc1d5",
+            "Value": {
+                "id": "01fac847-13ba-4dc5-a970-784bf34f40bb",
+                "resourcePath": "sounds\\sd_kitchenmusic\\sd_kitchenmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6feb3f35-fea9-4cd4-b2d3-e18454491cde",
             "Value": {
                 "id": "28e47101-af71-4eec-aba0-5ec50294190b",
