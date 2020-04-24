@@ -245,21 +245,54 @@ switch(l430809EE_0)
 	/// @DnDParent : 430809EE
 	/// @DnDArgument : "const" "ps.KNOCKBACK"
 	case ps.KNOCKBACK:
-		/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 7ACDF008
+		/// @DnDHash : 3BFA681B
 		/// @DnDParent : 0E39A9C2
-		/// @DnDArgument : "value" "spr_air"
-		/// @DnDArgument : "instvar" "10"
-		sprite_index = spr_air;
+		/// @DnDArgument : "var" "spr_state"
+		/// @DnDArgument : "value" "1"
+		if(spr_state == 1)
+		{
+			/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+			/// @DnDVersion : 1
+			/// @DnDHash : 1AEEEE11
+			/// @DnDParent : 3BFA681B
+			/// @DnDArgument : "value" "spr_forkair"
+			/// @DnDArgument : "instvar" "10"
+			sprite_index = spr_forkair;
+		
+			/// @DnDAction : YoYo Games.Common.Execute_Script
+			/// @DnDVersion : 1.1
+			/// @DnDHash : 1B3C662F
+			/// @DnDParent : 3BFA681B
+			/// @DnDArgument : "script" "check_air_index"
+			/// @DnDSaveInfo : "script" "c383e471-aa83-4ce7-9d78-339a38ad422e"
+			script_execute(check_air_index);
+		}
 	
-		/// @DnDAction : YoYo Games.Common.Execute_Script
-		/// @DnDVersion : 1.1
-		/// @DnDHash : 78CC7EEE
+		/// @DnDAction : YoYo Games.Common.If_Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 34794CA2
 		/// @DnDParent : 0E39A9C2
-		/// @DnDArgument : "script" "check_air_index"
-		/// @DnDSaveInfo : "script" "c383e471-aa83-4ce7-9d78-339a38ad422e"
-		script_execute(check_air_index);
+		/// @DnDArgument : "var" "spr_state"
+		if(spr_state == 0)
+		{
+			/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+			/// @DnDVersion : 1
+			/// @DnDHash : 7ACDF008
+			/// @DnDParent : 34794CA2
+			/// @DnDArgument : "value" "spr_air"
+			/// @DnDArgument : "instvar" "10"
+			sprite_index = spr_air;
+		
+			/// @DnDAction : YoYo Games.Common.Execute_Script
+			/// @DnDVersion : 1.1
+			/// @DnDHash : 78CC7EEE
+			/// @DnDParent : 34794CA2
+			/// @DnDArgument : "script" "check_air_index"
+			/// @DnDSaveInfo : "script" "c383e471-aa83-4ce7-9d78-339a38ad422e"
+			script_execute(check_air_index);
+		}
 		break;
 
 	/// @DnDAction : YoYo Games.Switch.Case

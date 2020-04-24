@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "132f678d-3dd0-45e2-b252-def5e779f147",
+            "Value": {
+                "id": "09cba52f-5851-41eb-918c-b5211f3fd90c",
+                "resourcePath": "objects\\o_solid_02\\o_solid_02.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1413ce35-dc43-4006-900c-b527c4688d76",
             "Value": {
                 "id": "4d4b25c8-4291-4053-a9ec-d105751460de",

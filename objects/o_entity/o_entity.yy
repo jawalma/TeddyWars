@@ -271,7 +271,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_dead",
+            "value": "s_player_idle_final",
             "varName": "spr_dead",
             "varType": 0
         },

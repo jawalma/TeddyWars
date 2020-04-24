@@ -447,7 +447,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "s_player_throw",
+            "value": "s_player_air_final",
             "varName": "spr_strength",
             "varType": 0
         },
