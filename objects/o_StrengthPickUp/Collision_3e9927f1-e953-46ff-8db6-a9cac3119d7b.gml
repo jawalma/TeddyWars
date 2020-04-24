@@ -10,13 +10,6 @@ audio_play_sound(sd_poweruppickup, 0, 0);
 /// @DnDHash : 2132E5DB
 instance_destroy();
 
-/// @DnDAction : YoYo Games.Instances.Create_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 4E90CCF9
-/// @DnDArgument : "objectid" "o_StrengthHeadPiece"
-/// @DnDSaveInfo : "objectid" "1bc51948-1a47-44f2-9307-96c50cdc096b"
-instance_create_layer(0, 0, "Instances", o_StrengthHeadPiece);
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 57EDF597
@@ -36,5 +29,16 @@ pws_state = pws.STRENGTH;
 /// @DnDArgument : "var" "strengthpw_unlocked"
 with(o_player) {
 strengthpw_unlocked = true;
+
+}
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5293C66E
+/// @DnDApplyTo : 1a369221-2e1e-4790-b14a-cf3fe29dcb3c
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "headbandUnlocked"
+with(o_player) {
+headbandUnlocked = true;
 
 }

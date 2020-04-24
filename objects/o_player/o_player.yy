@@ -145,16 +145,6 @@
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
         },
         {
-            "id": "6be78cd5-d6ad-4d20-915a-2c07d0e1c234",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 90,
-            "eventtype": 9,
-            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
-        },
-        {
             "id": "7cdb4d1f-d22c-4d71-b78d-48f359e7ef58",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -190,6 +180,16 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "bb92af11-e698-4f94-af0e-7787b3ad8ce8",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
+        },
+        {
+            "id": "04312297-1dfe-4d91-a829-de856095fcd1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "2933180a-5c1c-4035-832e-5600b2f1dc0a",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "1a369221-2e1e-4790-b14a-cf3fe29dcb3c"
@@ -463,6 +463,62 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "strengthpw_unlocked",
+            "varType": 3
+        },
+        {
+            "id": "7ff1cc2d-9b73-4034-8b7d-ea93ad988c94",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_walk_headband",
+            "varName": "spr_headband_walk",
+            "varType": 0
+        },
+        {
+            "id": "f9a8ca75-c53a-4d7d-8e8f-d2a7f05a2320",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_idle_headband",
+            "varName": "spr_headband_idle",
+            "varType": 0
+        },
+        {
+            "id": "33a9467e-bb5c-463d-9e97-2b5d48de0e4e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "s_player_air_headband",
+            "varName": "spr_headband_air",
+            "varType": 0
+        },
+        {
+            "id": "ec96eb58-8687-404e-b074-a95198df3828",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "headbandUnlocked",
             "varType": 3
         }
     ],
